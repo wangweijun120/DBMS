@@ -6,6 +6,7 @@ use Think\Controller;
 class PdfController extends Controller
 {
     protected $vq;
+    protected $db;
 
     function _initialize()
     {
@@ -17,25 +18,48 @@ class PdfController extends Controller
         );
         // $arr=file_get_contents("http://www.jd.com/allSort.aspx");
         $this->vq = new  \Org\Util\Vquery($arr);
+        $this->db=M('p');
     }
 
     public function index()
     {
+        Vendor('vendor.autoload');
+        $this->parse();
+
+    }
+
+    public function catchContent(){
         $data = $this->vq->find("class=\"rowon\"");
         //$data=$this->vq->find("tr");
         $r = $data->result;
         $r=$r[0];
-$i=0;
+          $i=0;
         foreach ($r as $v) {
           $data= $this->change($v);
             var_dump($data);
-           $db= M('pdf');
-            //$db->add($data);
+            $this->db->add($data);
             $i++;
             echo '<br/>'.$i.'<br/>';
         }
-
     }
+
+    public function parse(){
+    // 获取参数，文件所在路径
+    $path = 'https://plants.usda.gov/plantguide/pdf/pg_abam.pdf';
+    // 创建源码中的Parser类对象
+    $parser = new \Smalot\PdfParser\Parser();
+    // 调用解析方法，参数为pdf文件路径，返回结果为Document类对象
+    $document = $parser->parseFile($path);
+    // 获取所有的页
+    $pages = $document->getPages();
+    // 逐页提取文本
+        $str='';
+    foreach($pages as $page){
+        $str.=$page->getText();
+        echo($page->getText());
+    }
+        file_put_contents('1.txt',$str);
+  }
 
     private function change($arr)
     {

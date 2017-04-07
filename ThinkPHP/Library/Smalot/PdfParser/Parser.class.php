@@ -39,12 +39,15 @@ use Smalot\PdfParser\Element\ElementNull;
 use Smalot\PdfParser\Element\ElementNumeric;
 use Smalot\PdfParser\Element\ElementString;
 use Smalot\PdfParser\Element\ElementXRef;
+use Smalot\PdfParser\Element\tcpdf;
+
 
 /**
  * Class Parser
  *
  * @package Smalot\PdfParser
  */
+
 class Parser
 {
     /**
