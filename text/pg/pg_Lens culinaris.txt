@@ -1,0 +1,472 @@
+LENTIL 
+Lens culinaris Medik. 
+Plant Symbol = LECU2 
+ 
+Drawing of lentil in Flora von Deutschland, Österreich und der Schweiz 1885 by Prof. Dr. Otto Wilhelm Thomé, Gera, Germany; www.biolib.de. 
+Alternate Names 
+Common Names:  none 
+Scientific Names:  Cicer lens (L.) Willd.; Ervum lens L.; 
+Lens esculenta Meunch 
+Description 
+General:  Legume family (Fabaceae). Lentils are 12 to 30 
+inches tall, slender, semi-erect annuals. Plants can have a 
+single stem or branched, bushy form. Leaves are pinnate 
+and have up to 14 sessile, ovate to lanceolate leaflets, 
+each about 0.5 to 1.5 inches long. Leaves have two small 
+stipules at the base and may terminate in a tendril. 
+Flowers are usually double, or sometimes one to four on 
+racemes, small (less than 0.5 inch long) and white to pale 
+purple or dark purple. They bloom in sequence from the 
+lower braches upwards (Cash et al., 2001). Flowers are 
+self-pollinated and usually pollinate before opening. 
+Occasionally cross-pollination can occur by thrips or 
+other small insects. Flowers fade within 3 days of 
+opening, and seed pods form 3 to 4 days later. Seed pods 
+are flat, smooth, 0.5 to 0.75 inch long and contain 1 or 2 
+seeds (Muehlbauer et al., 2002). Seeds are lens shaped, 
+and have a seed coat which ranges in color from clear to 
+green, pale tan, brown and black. Seed coats of some 
+cultivars have purple or black mottles or speckles. 
+ 
+Lentils are divided into two major types: macrosperma 
+(large-seeded, or Chilean types) and microsperma (small-
+seeded, or Persian types) (Zohary, 1995; Cash et al., 
+2001). Large-seeded lentils have seeds up to 0.5 inch 
+diameter with yellow cotyledons and little pigmentation 
+in the flowers or vegetative structures. Small-seeded 
+lentils have seeds up to 0.25 inch diameter with red, 
+orange or yellow cotyledons and more pigmentation in the 
+plant tissue. Small-seeded lentils are generally shorter and 
+have smaller leaves and pods (Muehlbauer et al., 2002). 
+ 
+Distribution: Lentils are currently cultivated in 53   
+countries around the world (Food and Agriculture 
+Organization, 2015). Major producers are Canada, India, 
+Turkey, Australia and the United States (Food and 
+Agriculture Organization, 2015). In the United States, 
+Montana, North Dakota, Washington and Idaho lead 
+production (USDA-National Agricultural Statistics 
+Service, 2012). For current distribution, please consult the 
+Plant Profile page for this species on the PLANTS Web 
+site. 
+Adaptation 
+Lentils are a drought-tolerant, cool-season crop. They are 
+usually grown in semi-arid climates without irrigation. A 
+minimum of 10 inches of annual rainfall is required for 
+lentil production (Cash et al., 2001). Lentils can tolerate 
+low rainfall and high temperatures, however these stresses 
+may negatively impact yield if they occur during 
+flowering and seed set (Muehlbauer et al., 2002). Lentils 
+are often planted in the spring in cool climates and in the 
+fall or winter in warm climates. A few varieties are 
+tolerant of extreme cold temperatures and can be planted 
+in the winter in cool climates. 
+ 
+Lentils grow best in deep, sandy loam soils, however they 
+will grow in all soil types with good drainage (Oplinger et 
+al., 1990; Elzebrok and Wind, 2008). They can tolerate 
+moderate alkaline or saline conditions (Muehlbauer et al., 
+2002) and grow in soils with pH of 4.4 to 8.2, but are best 
+adapted to soils with pH of 5.5 to 7 (Elzebrok and Wind, 
+2008). 
+Uses 
+Commercial crop: Lentils are considered a “pulse” or 
+“grain legume” because they are grown for their edible 
+Natural Resources Conservation Service  Plant Guide
+
+seed, which is consumed primarily by humans. Some 
+lentils are sold and consumed with seed coats intact, and 
+others with seed coats removed. Seeds are often 
+consumed whole or split in soups, stews and salads, and 
+can be ground into flour and used in cakes or infant food 
+(Elzebrok and Wind, 2008). Canada, Australia, and the 
+United States export most of their lentil crop to Asian 
+countries which have high levels of consumption (Cash et 
+al., 2001). 
+ 
+Lentils are an excellent source of fiber, protein, the amino 
+acid lysine and the nutrients folate, thiamin, phosphorus 
+and iron (USDA-Agricultural Research Service, 2015). 
+They are low in the amino acids methionine and cysteine, 
+however when consumed with cereals, form a complete 
+protein (Cash et al., 2001).  
+ 
+Livestock feed: Lentils that do not meet food grade 
+standards (#3 or below) are used for livestock feed 
+(Oplinger et al., 1990). Plant residues are also sometimes 
+fed to livestock. 
+ 
+ 
+Lentils in a variety trial near Dusty, WA  in early July at the end of flowering during pod filling. Stephen Guy, Washington State University 
+Rotational crop: Lentils provide many agronomic benefits 
+when grown in rotation with cereals and other crops. They 
+help reduce cereal disease severity because they are not 
+an alternate host for cereal disease pathogens 
+(Muehlbauer et al., 2002). Being a broadleaf crop, they 
+allow an opportunity to control grass weeds. They also 
+provide nitrogen to the subsequent crop through 
+biological nitrogen fixation in association with symbiotic 
+Rhizobium bacteria. Depending on environmental 
+conditions, lentils may provide 30 to 100 pounds of 
+nitrogen per acre (Muehlbauer et al., 2002). In addition, 
+lentil residue decomposes quickly due to its low carbon to 
+nitrogen ratio, minimizing operations necessary to prepare 
+a seedbed for the following crop.   
+ 
+Green manure and cover crop: Lentils are a potential 
+cover crop or green manure in semi-arid areas and are an 
+option for replacement of fallow in the northern Great 
+Plains (Allen et al., 2011). Research demonstrates, 
+however, growers should approach this practice with 
+caution and good management. If lentils are grown as a 
+green manure and not terminated before pod set, they can 
+have negative impacts on soil moisture and wheat yield 
+compared to fallow (Zentner et al., 1996; Brandt, 1999; 
+Allen et al., 2011). Early lentil termination (at flower 
+stage) may reduce effects on soil moisture (Pikul et al., 
+1997; Allen et al., 2011) but also reduce the amount of 
+nitrogen produced (McCauley et al., 2012).  
+ 
+Allen et al. (2011) determined several years may be 
+required before experiencing benefits from growing a 
+lentil green manure. In their long term study in Montana, 
+wheat yield was significantly lower when grown in 
+rotation with lentil green manure compared to fallow 
+during the first five years, but after six years (three 
+rotation cycles), differences in wheat yield were 
+negligible. They discovered after six years, lentil green 
+manure improved soil nitrogen cycling, maintained water 
+productivity and offset wheat fertilizer requirements. 
+ 
+The Lockeford Plant Materials Center (CAPMC) in 
+California’s Central Valley demonstrated lentils grown as 
+a cover crop outperformed several other legumes in 
+winter trials under drought conditions (Smither-Kopperl, 
+personal communication, 2015). The CAPMC is 
+conducting advanced trials to evaluate differences among 
+lentil cultivars. 
+Ethnobotany 
+The centers of origin of lentil are the Mediterranean and 
+southwest Asia (Vavilov, 1949; Zohary, 1995). Lentils 
+have been cultivated for as long as humans have planted 
+crops (Zohary and Hopf, 1973). They were domesticated 
+approximately 8,500 years ago, around the same time as 
+wheat, barley and pea (Zohary and Hopf, 1973). Lentils 
+were cultivated in Spain and Germany 7,000 years ago, 
+and in India 4,500 years ago (Hancock, 2004; Elzebrok 
+and Wind, 2008). They were brought to the United States 
+in 1916 and grown near Farmington, Washington, then 
+grown on a larger commercial scale beginning in 1937 
+(Youngman, 1967).  
+ 
+Lentils are a significant component of Mediterranean, 
+Middle Eastern, Indian, Ethiopian, and western Asian 
+diets. Popular lentil dishes are dhal in India, mujaddara in 
+Arab countries, kik wot in Ethiopia, and kushari in Egypt. 
+Lentils are an important food in Jewish mourning 
+ceremonies because their round shape symbolizes the 
+cycle of life, and in Italy and Hungary, people consume 
+lentils on New Year’s Eve to bring about wealth and 
+prosperity since lentils are shaped like coins (USA Dry
+
+Pea and Lentil Council, 2015). The lentil is celebrated 
+every year in Pullman, Washington, at The National 
+Lentil Festival with a parade and the “world’s largest 
+bowl” of lentil chili.  
+Status 
+Please consult the PLANTS Web site 
+(http://plants.usda.gov/) and your State Department of 
+Natural Resources for this plant’s current status (e.g., 
+threatened or endangered species, state noxious status, 
+and wetland indicator values). 
+Planting Guidelines 
+Spring varieties of lentils should be planted when the soil 
+has warmed to 40°F. Timely spring planting results in 
+taller plants, which may improve ease of harvest and yield 
+(Oplinger et al., 1990; Cash et al., 2001). Lentil seedlings 
+can generally withstand frost and temperatures as low as 
+21°F (Cash et al., 2001). Lentils are more tolerant of frost 
+than other crops because their cotyledons remain below 
+the soil surface during germination (Cash et al., 2001).  
+ 
+Winter-tolerant varieties of lentils should be planted in the 
+late summer or early autumn. The timing of planting is 
+dictated by soil moisture conditions. In regions utilizing 
+summer fallow, lentils can be planted into moisture in late 
+August. In other regions, autumn-sown lentils are 
+typically planted in September or October just before or 
+after autumn precipitation. 
+ 
+Lentil seed should be inoculated with Rhizobium 
+leguminosarum bacteria when planting in fields where 
+lentils, peas or vetch have not been recently grown to 
+ensure root nodule formation and the fixation of 
+atmospheric nitrogen. In fields where residual nitrate 
+levels exceed 44 pounds per acre, lentils may not nodulate 
+and produce nitrogen (Cash et al., 2001). If soil nitrate 
+levels are extremely low, a small amount of nitrogen (10 
+to 30 pounds per acre) applied prior to planting may be 
+beneficial for establishment (Oplinger et al., 1990).  
+ 
+Lentils require high levels of phosphorus for optimum 
+seed yields and nitrogen fixation (Cash et al., 2001). 
+Phosphorus and potassium fertilization rates should be 
+based on soil test results and recommendations for your 
+area. See local extension bulletins for this information. 
+The fertilizer should be worked into the soil or deep-
+banded in the fall prior to spring planting or during spring 
+field preparation to avoid direct contact with seedlings 
+(Oplinger et al., 1990; Cash et al, 2001). 
+ 
+Seeding rates range from 40 to 70 pounds per acre, 
+depending on variety (Cash et al., 2001; Muehlbauer et 
+al., 2002). Typical grain drills with 6 to 12-inch row 
+spacing can be used for seeding and should be calibrated 
+to plant about 10 seeds per square foot (Cash et al., 2001). 
+The ideal seeding depth is 1 to 2 inches.  
+ 
+Management 
+Weed management prior to lentil establishment is critical 
+since lentils do not compete well with weeds (Cash et al., 
+2001) and plants are easily damaged by post-planting 
+cultivation (Oplinger et al., 1990). Applications of pre-
+emergent herbicides such as linuron and metribuzin 
+(applied post-planting) are common. A few post-
+emergence herbicides are labeled for lentils, however they 
+are not typically used since they may cause damage to the 
+crop. These include sethoxydim and trilliate for grass 
+weeds, and imazethapyr and metribuzin for broadleaf 
+weeds (Cash et al., 2001). Contact your local agricultural 
+extension specialist or county weed specialist to learn 
+what works best in your area and how to use it safely. 
+Always read label and safety instructions for each control 
+method. Trade names and control measures appear in this 
+document only to provide specific information. USDA 
+NRCS does not guarantee or warranty the products and 
+control methods named, and other products may be 
+equally effective. 
+ 
+A growing season of 80 to 100 days is required for 
+growing a lentil crop, depending on seeding date, 
+precipitation and heat units (Cash et al., 2001). Lentil seed 
+pods mature from the bottom up, with the lower pods 
+maturing before the upper pods. The crop should be 
+swathed or desiccated with chemical desiccants when the 
+lower pods mature to prevent seed shattering (Cash et al., 
+2001). The crop can also be direct combined, which 
+reduces losses due to shattering and weather delays. 
+Combine headers with automatic height adjustment 
+(“flex” headers) and “pick up” reel attachments are 
+helpful. Low cylinder speeds (less than 500 rpm) should 
+be used to minimize damage to the seed. Lentils should 
+have about 18 to 20% moisture at the time of harvest to 
+prevent seed damage (Oplinger et al., 1990), then dried to 
+14 to 15% moisture for long-term storage (Oplinger et al., 
+1990; Cash et al., 2001). 
+ 
+Single row planting of a lentil accession in the lentil core collection from the Washington State University germplasm repository at Pullman, WA. Plants are at physiological maturity. Stephen Guy, Washington State University
+
+Pests and Potential Problems 
+Lentils are attacked by insects at all stages of plant 
+growth. Seeds and seedlings are eaten by seedcorn 
+maggots (Delia platura), wireworms (Limonius spp. and 
+Ctenicera spp.), cutworms (Agrotis spp.), and weevil 
+larvae (Sitona spp.). Lentil leaves, stems and flowers are 
+eaten by thrips (Frankliniella spp.), leaf weavils (Sitona 
+lineatus), lepidopterous larvae (Helicoverpa spp. and 
+Spodoptera spp.), lygus bugs (Lygus spp.) and 
+grasshoppers (multiple spp.) (Muehlbauer et al., 2002). 
+Aphids (Aphis craccivora  and Acyrthosiphon pisum) can 
+cause damage by drinking sap from plant parts. 
+ 
+Common lentil diseases include aphid-vectored viruses 
+(alfalfa mosaic, bean/pea leaf roll, bean yellow mosaic, 
+pea enation mosaic, pea streak, and seedborne mosaic), 
+root rots or wilts (Rhizoctonia, Pythium, Sclerotium, 
+Aphanomyces and Fusarium spp.), rust (Uromyces viciae-
+fabae), Ascocyta blight (Acochyta fabae), Stemphylium 
+blight (Stemphylium spp.), anthracnose (Colletotrichum 
+truncatum) and seedborne fungi (Muehlbauer et al., 
+2002).   
+ 
+Lentil disease severity can be reduced by planting 
+disease-free seed, eliminating plant residue, and 
+lengthening crop rotation cycles so the same crop is not 
+planted in the same field more than once every three years 
+(Cash et al., 2001). 
+Environmental Concerns 
+None. 
+Control 
+Lentils can shatter from the pods before or during harvest 
+and become weeds in the following crop. They can 
+typically be controlled with herbicides labeled for cereal 
+crops. 
+Seeds and Plant Production 
+Lentil seed size varies with seed type and cultivar. Large-
+seeded cultivars ‘Laird’ and ‘Merrit’ have approximately 
+6,500 seeds per pound, and small-seeded varieties ‘Eston’ 
+and ‘Pardina’ have about 12,600 to 19,700 seeds per 
+pound. Average yields in the U.S. during the years 2002 
+to 2012 ranged from 1,000 to 1,400 pounds per acre 
+(USDA-National Agricultural Statistics Service, 2012). 
+Cultivars, Improved, and Selected Materials (and area 
+of origin)  
+Numerous lentil cultivars are available for commercial 
+production. A few of the most common cultivars for each 
+market class are listed below. Cultivars preceded by CDC 
+were developed by the Crop Development Centre at the 
+University of Saskatchewan. 
+ 
+Small Reds:  CDC Rosetown, Crimson, CDC Rouleau, 
+CDC Redcoat, CDC Redberry 
+ 
+Small Green:  CDC LeMay, CDC Viceroy 
+ 
+Medium Green:  CDC Richlea, Avondale  
+ 
+Large Green:  CDC Greenland, Pennell, Merrit, Riveland  
+ 
+Spanish Brown:  Pardina   
+ 
+Zero Tannin:  Shasta, Cedar 
+ 
+Cultivars should be selected based on the local climate, 
+resistance to local pests, and intended use. Consult with 
+your local land grant university, extension or local USDA 
+NRCS office for recommendations on adapted cultivars 
+for use in your area. 
+ 
+Literature Cited 
+Allen, B.L., J.L. Pikul Jr, J.T. Waddell, and V.L. Cochran. 
+2011. Long-term lentil green-manure replacement for 
+fallow in the semiarid northern Great Plains. 
+Agronomy J. 103:1292-1298. 
+Brandt., S.A. 1999. Management practices for black lentil 
+green manure for the semi-arid Canadian prairies. 
+Canadian J. of Plant Sci. 79:11-17. 
+Cash, D., R. Lockerman, H. Bowman and L. Welty. 2001. 
+Growing Lentils in Montana. Montana State 
+University Extension Guide MT199615. Montana 
+State University, Bozeman, MT. 
+Elzebroek, T., and K. Wind. 2008. Guide to cultivated 
+plants. CAB International, Oxfordshire, UK. 
+Food and Agriculture Organization. 2015. [Online] 
+Available at: 
+http://faostat3.fao.org/download/Q/QC/E (Accessed 
+24 August 2015). FAO, Rome. 
+Hancock, J.F. 2004. Plant Evolution and the Origin of 
+Crop Species. CAB International, Oxon, UK and 
+Cambridge, MA. 
+McCauley, A.M., C.A. Jones, P.R. Miller, M.H. Burgess, 
+and C.A. Zabinski. 2012. Nitrogen fixation by pea 
+and lentil green manures in a semi-arid 
+agroecoregion: effect of planting and termination 
+timing. Nurtient Cycling in Agroecosystems 92:305-
+314. 
+Muehlbauer, F.J., R.J. Summerfield, W.J. Kaiser, S.L. 
+Clement, C.M. Boerboom, M.M. Welsh-Maddux,  
+and R.W. Short. 2002. Principles and Practice of 
+Lentil Production. Available at: 
+http://www.ars.usda.gov/is/np/lentils/lentils.htm  
+(Accessed 17 August 2015). USDA-Agricultural 
+Research Service, Pullman, WA. 
+Oplinger, E.S., L.L. Hardman, A.R. Kaminski, K.A. 
+Kelling and J.D. Doll. 1990. Lentil. Alternative Field 
+Crops Manual. [Online] Available at: 
+https://hort.purdue.edu/newcrop/afcm/lentil.html. 
+University of Wisconsin Cooperative Extension and 
+University of Minnesota Extension Service, Madison, 
+WI and St. Paul, MN. 
+Pikul, J.L. Jr., V.L. Cochran, and J.K. Aase. 1997. Lentil 
+green manure as fallow replacement in the semiarid 
+northern Great Plains. Agronomy J. 89:867-874.
+
+USA Dry Pea and Lentil Council. 2015. Processing 
+Information and Technical Manual. [Online] 
+Available at: http://www.pea-lentil.com/ (Accessed 
+19 Aug 2015). USA Dry Pea and Lentil Council, 
+Moscow, ID. 
+USDA-National Agricultural Statistics Service. 2012. 
+Press release. [Online] Available at: 
+http://www.nass.usda.gov/Statistics_by_State/Washin
+gton/Publications/Current_News_Release/pealent11.
+pdf. (Accessed 14 August 2015). USDA-NASS, 
+Washington, DC. 
+USDA-Agricultural Research Service. 2015. National 
+Nutrient Database Standard Release. [Online] 
+Available at: 
+http://ndb.nal.usda.gov/ndb/foods/show/4782?fgcd=
+&manu=&lfacet=&format=&count=&max=35&offse
+t=&sort=&qlookup=lentil (Accessed 24 August 
+2015). USDA-ARS, Washington, DC. 
+Vavilov, N.I. 1949. The origin, variation, immunity and 
+ breeding of cultivated plants. Chron. Bot. 13:1-54. 
+Youngman, V.E. 1967. Lentils – a pulse for the Palouse. 
+Economic Botany 22:135–139. 
+Zentner, R.P., R. Selles, V.O. Biederbeck, and C.A. 
+Campbell. 1996. Indianhead black lentil as green 
+manure for wheat rotations in the Brown soil zone. 
+Canadian J. of Plant Sci. 76:417-422. 
+Zohary, D. and M. Hopf. 1973. Domestication of pulses 
+in the Old World. Science 182:887-894. 
+Zohary, D. 1995. Lentil: Lens culinaris (Leguminoseae – 
+Papilionoideae). In: Smartt, J. and N.W. Simmonds 
+(eds) Evolution of Crop Plants. Longman Scientific 
+& Technical, Harlow, UK. 
+ 
+Citation 
+Pavek, P.L.S. and R. McGee. 2016. Plant Guide for lentil 
+(Lens culinaris Medik.). USDA-Natural Resources 
+Conservation Service, Pullman Plant Materials Center. 
+Pullman, WA. 
+ 
+Published January 2016 
+ 
+Edited: 22Dec2015 aym 
+For more information about this and other plants, please 
+contact your local NRCS field office or Conservation 
+District at http://www.nrcs.usda.gov/ and visit the 
+PLANTS Web site at http://plants.usda.gov/ or the  
+Plant Materials Program Web site: 
+http://plant-materials.nrcs.usda.gov. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Helping People Help the Land 
+USDA IS AN EQUAL OPPORTUNITY PROVIDER AND EMPLOYER

@@ -1,0 +1,1307 @@
+Plant Guide  
+ 
+Plant Materials <http://plant-materials.nrcs.usda.gov/> 
+Plant Fact Sheet/Guide Coordination Page <http://plant-materials.nrcs.usda.gov/intranet/pfs.html> 
+National Plant Data Center <http://npdc.usda.gov> 
+ 
+GOLDENSEAL 
+Hydrastis canadensis  L. 
+Plant Symbol = HYCA 
+ 
+Contributed by: USDA NRCS National Plant Data 
+Center 
+ 
+Alternate Names 
+orangeroo, yellow-puccoon, fard inolien, hydrastis du 
+Canada, racirie jaunisse, sceau d'or, kanadische 
+Orangewurz, hidrastis, raíz de oro   
+ 
+Status 
+Please consult the PLANTS Web site and your State 
+Department of Natural Resources for this plant’s 
+current status (e.g. threat ened or endangered species, 
+state noxious status, and wetland indicator values). 
+ 
+The following topics are addressed in the publication, 
+Cultivating the increasingly popular medicinal plant, 
+goldenseal: Review and update by Adrianne Sinclair 
+and Paul M. Catling, which is reproduced below.   
+This publication was reproduced from the American 
+Journal of Alternative Agriculture, volume 16 (3), 
+with permission from the  authors and the American 
+Journal of Alternative Agriculture.  
+ 
+Cultivating the increasingly popular medicinal plant, 
+goldenseal: Review and update 
+Adrianne Sinclair and Paul M. Catling 
+ 
+Abstract.  Interest in the cultivation of goldenseal is 
+increasing and this may have benefits for agriculture, 
+human health, and conservation. To enable a better 
+understanding of growing conditions, cultivation 
+methods reported in the literature were reviewed, 21 
+natural goldenseal populations in the northern 
+portion of its natural range in North America were 
+described and analyzed in terms of population size 
+and health, and 15 successful growers were 
+interviewed on requirements for optimal cultivation. 
+Growing conditions in the wild were compared to 
+those reported in the cultivation literature. Summary 
+of data from natural populations suggests goldenseal 
+grows best in mixed hardwood forests, under 60-65% 
+shade, in moist sandy loam soils high in organic 
+matter, with pH 5.7 to 6.3. Similarly, review of the 
+literature suggests that goldenseal grows best in 
+moist, well-drained loams high in organic matter, 
+with pH 5.5 to 6.5. Reported shade requirements vary 
+but 47-80% shade is considered optimal. Growing 
+conditions reported by growers were also consistent 
+with the cultivation literature and similar to 
+conditions of wild populations. Although optimal 
+growing conditions are similar to those for many 
+crops, goldenseal is relatively robust and can grow 
+well in a variety of conditions including wet, 
+predominantly sandy or clay soils with pH as low as 
+4.8 and as high as 7.8. Cultivation can utilize a 
+ginseng crop infrastructure and goldenseal has been 
+recommended as a rotation crop for ginseng. 
+Commercial production of goldenseal is potentially 
+advantageous because (1) it is an environmentally 
+friendly crop; (2) it has been grown successfully far 
+outside its natural range, is easy to grow, and is 
+considered potentially profitable; and (3) it is 
+relatively inexpensive, having low energy, land area, 
+and fertilization requirements. Development of a 
+sustainable crop may contribute to the protection of 
+native wild gennplasm, which can provide valuable 
+material for crop improvement. 
+© Jeff Nekola @ PLANTS 
+ 
+Key words : ginseng, natural resource conservation, 
+plant ecology, propagatio n, soil characteristics, 
+sustainable agriculture, wild germplasm 
+Introduction 
+Goldenseal  (Hydrastis canadensis L .) is a North 
+American woodland herb with a yellow perennial
+
+rhizome. A new stem grows each year about 30 cm 
+high. The leaves are large (up to 30 cm wide), usually 
+with five lobes. A single white flower, a mass of 
+stamens with no petals, is produced from late April to 
+May, depending on latitude and altitude, followed in 
+July by a bright red berry with 10 to 30 black seeds. 
+The natural range of the plant extends from southern 
+New England west through the extreme southwestern 
+portion of southern Ontario, to southern Wisconsin, 
+and south to Arkansas and northern Georgia. 
+Goldenseal is highly valued for its rhizome and 
+roots that contain medicinal alkaloids (Small and 
+Catling, 1999). The roots have antibiotic properties, 
+suppressing certain bacteria, protozoans, and fungi, 
+and are used to treat AIDS and other severe chronic 
+diseases, and digestive disorders, and to enhance the 
+immune system (Davis and Bit, 1998). Commercial 
+formulations prepared from the plant are widely used 
+to treat colds and nasal congestion, as well as certain 
+infections and parasites (Small and Calling, 1999). 
+ 
+Increasing popularity 
+Previously available only in specialty health and 
+natural foods stores, goldenseal and other medicinal 
+herbs became part of the general marketplace during 
+the 1990s, and since then the demand has been 
+increasing dramatically (Fos ter, 2000). Between 1991 
+and 1996, the wholesale value of goldenseal in the 
+U.S. increased by as much as 600% (Robbins, 1996). 
+Since 1994 goldenseal has been one of the top six 
+best-selling medicinal herbs in the U.S. (Robbins, 
+1996; Small and Catling, 1999), and remains so today 
+(Foster, 2000). Between 1995 and 1997, the 
+medicinal plant market as  a whole, as well as demand 
+for goldenseal, experienced in excess of a 30% 
+growth rate (USFWS, 1997). Goldenseal is also 
+available in numerous drug products (Small and 
+Catling, 1999) and in a wide array of herbal products 
+on international markets, e.g., in France, Australia, 
+Germany, United Kingdom, Italy, and other 
+European countries (IUCN, 1997; Robbins, 1996). 
+Since demand has increased greatly, and supplies 
+have declined, the price of goldenseal has increased 
+dramatically. In the early  1990s, the price of 
+goldenseal ranged from $18 to $24 per kg (Foster, 
+2000). In 1999, the price ranged from $66 to $110 
+per kg (Davis, 1999c; Foster, 2000). In 2000, the 
+price of goldenseal was over  $110 per kg, with some 
+companies charging over $220 per kg (Foster, 2000; 
+Price lists on World Wide Web). The current 
+goldenseal shortage and the large increase in its 
+demand appear to highlight the need for cultivated 
+supplies to satisfy a growing domestic and 
+international market (Foster, 2000). 
+ 
+Cultivation and conservation 
+Goldenseal is perceived to be at high risk of 
+extinction due to excessive harvesting of wild 
+populations to supply the market. The Nature 
+Conservancy (U.S.) has assigned the plant a national 
+rank of N4 and a global rank of G4, indicating that it 
+is not susceptible to immediate threat; however, 
+goldenseal is considered endangered, critically 
+imperiled, imperiled, rare, or uncommon in all 27 
+U.S. states having native populations (USFWS, 
+1997). In Canada, goldenseal is considered 
+threatened due to increasing potential for 
+unrestrained wild harvest, as well as habitat loss 
+(Sinclair and Catling, 2000a; White, 1991). Globally, 
+goldenseal was added to Appendix 11 of CITES 
+(Convention on International Trade in Endangered 
+Species) in 1997 (CITES, 2000), which requires that 
+goldenseal be artificially propagated for export 
+(Environment Canada, 1999) and that national and 
+international trade in roots, rhizomes, rootstocks, and 
+bulk powdered herb will become more tightly 
+regulated. 
+The actual risk of over-harvest eliminating wild 
+populations is dependent on market conditions, as 
+well as ecological characteristics. Increased 
+cultivation may soon reduce the price of goldenseal 
+to the point where collection of wild plants is not a 
+threat to survival; however,  this point is best reached 
+before wild germplasm is lost. Results from a 1999 
+American Herbal Product s Association survey 
+(McGuffin, 1999) are encouraging in suggesting that 
+the goldenseal market is in transition from wild to 
+cultivated sources. Projections suggest that 37 Mg 
+will come from cultivated sources in 2000 and reach 
+90 Mg or more after 2003. In terms of goldenseal 
+ecology, the long-term effects of digging wild roots 
+are unknown. Although ther e are abundant anecdotal 
+references to a decline after digging (e.g., USFWS, 
+1997), there is also evidence  for a beneficial effect of 
+some level of soil disturbance (Sinclair and Catling, 
+2000b). While removal of large plants may reduce 
+seed production, soil disturbance may allow increases 
+in patch size in the long  run, since goldenseal can 
+produce new plants from  root pieces and tips. 
+ 
+Objectives 
+Until the late 1990s, there was very little detailed 
+information available on cultivation methods of 
+goldenseal. Davis (1996a) summarized information 
+from available literature (Foster, 1991; Haage and 
+Ballard, 1989; Hardacre et al., 1962; Lloyd, 1912; 
+Van Fleet, 1914; Veninga and Zaricor, 1976), and 
+from farm and research station demonstrations, 
+growers, and collectors. Davis (1999a) noted that 
+many of the current recommendations for goldenseal 
+cultivation are surprisingly consistent with those
+
+found in a 1914 USDA Farmers' Bulletin (Van Fleet, 
+1914), which was updated and released again in 1949 
+(Sievers, 1949). Over the past few years there has 
+been a surge in research and interest in the cultivation 
+of goldenseal, which has resulted in numerous 
+publications from a wide range of sources, including 
+universities, government agencies, commercial 
+growers, public conferences, associations, and private 
+researchers. 
+Our objectives are to (1) review information on 
+goldenseal growth, from the literature and from a 
+survey of goldenseal growers, and (2) present new 
+information on natural populations. We hope this will 
+increase interest in cultivation of goldenseal, and thus 
+reduce the actual and perceived threat of 
+over-harvest. 
+Methods 
+To gather information on optimal conditions for 
+goldenseal growth, a literatu re search was conducted, 
+using the keyword "goldenseal" alone and in 
+combination with "cultivation," "farming," 
+"propagation," and others, in five major sources: (1) 
+AGRICOLA (bibliographic database for the National 
+Agricultural Library and other institutions in 
+agricultural and related sciences); (2) AGRIS 
+(International System for the Agricultural Sciences 
+and Technology); (3) BIOSIS (International 
+Bibliographic Database for the Life Sciences); (4) 
+CUBE (Carleton University  and University of Ottawa 
+collections, databases of the Center for Research 
+Libraries in Chicago, Canada Institute for Scientific 
+and Technical Information [CISTI], Norman Paterson 
+School of International Affairs/The Institute of 
+European and Russian Studie s Resource Centre); and 
+(5) the World Wide Web. 
+To further characterize growing conditions, data 
+were collected in May 1998 from 21 natural 
+goldenseal populations occurring in the northern 
+portion of the range in Ontario, i.e., the northern part 
+of the plant's range in North America. At each of the 
+sites, population size (determined by number of 
+stems) was estimated by direct count; plant species 
+within goldenseal patches and tree species within a 
+10 m radius around a patch were recorded; and the 
+amount of shade, soil type, and topography were 
+noted. A "patch" constitutes a cluster of plants spaced 
+within approximately 0.3 m from other plants and 
+"sites" are at least 0.5 km apart. Patches give a very 
+rough idea of genetic diversity because different 
+patches are likely to be genetically different whereas 
+plants within a patch could  be identical due to clonal 
+reproduction. 
+Shade was estimated based on a percentage scale 
+indicating amount of canopy through which direct 
+light was penetrating. A soil sample, one per site, was  collected from 14 of the 21 sites, by pushing a metal 
+cylinder [10 cm (3.9 inches
+) in diameter] to 9.5 cm 
+(3.7 inches) depth into the soil within a patch of 
+goldenseal. Soil samples were transported in plastic 
+bags to ACUTEST laboratories in Ottawa for 
+standard soil analysis (OMAFRA, 1988). Each 
+sample was analyzed for pH, organic matter 
+(percentage dry weight lost on ignition), P (extracted 
+with sodium bicarbonate), K,  Mg, Na, Ca (extracted 
+with ammonium acetate), Mn (extracted with 
+phosphoric acid), and Zn (extracted with DTPA, 
+diethylenetriaminepentaacetic acid). For the 21 
+populations, soil texture (percentage sand, silt, and 
+clay) was based on estimates from the soil sample or 
+on local soil survey data. Data on natural conditions 
+are valuable because in nature many stresses operate 
+and the plant habitat may be restricted to optimal 
+conditions. 
+Fifteen major goldenseal producers throughout 
+North America were interviewed by telephone to help 
+to further establish the requirements for optimal 
+cultivation. Well known, reliable growers with 
+established businesses and 5 to 18 years of first-hand 
+experience were selected ba sed on their identification 
+in horticultural publications (Adam, 2000; Davis, 
+2000b), recognition by researchers and other 
+growers, and their records of producing successful 
+crops. Information obtained from the interviews 
+included farm location, cultivation method, and soil 
+moisture, texture, pH, and organic matter. Some 
+growers did not want to be identified, and therefore, 
+contributors to Table 3 are not named. 
+A method developed by Montford and Small 
+(1999a, 1999b) was employed to estimate the 
+"biodiversity friendliness" of goldenseal, compared to 
+other crops, based on 26 criteria related to the 
+predominant manner of cultivation (e.g., forest 
+conservation; use of irrigation, biocides, and 
+fertilizers; energy consumption; proportion of plant 
+utilized; and others). The 26 criteria are assigned 
+values of -1, 0, or 1, wher e -1 indicates the crop is 
+relatively undesirable with respect to the biodiversity 
+criterion, 0 indicates the crop has an average or 
+undetermined impact, and 1 indicates the crop is 
+relatively desirable with respect to the criterion. 
+Simple averaging was used to calculate mean score 
+(the more positive the score, the more "ecologically 
+friendly" the crop). Information was obtained on 
+other benefits of growing goldenseal, but no 
+particular procedures were necessary to summarize 
+these data.  
+Results and Discussion 
+Selection of forest site or artificial shade structure 
+Goldenseal can be grown successfully under an 
+artificial shade structure consisting of steel or wood
+
+posts covered with polypropylene shade cloth or 
+wood planks (wood lath structure) (Davis, 1996a, 
+1996b, 1999b; Konsler, 1987). The structure should 
+be at least 2 to 3 m (6.6 to 9.8 ft) high and open on 
+the sides, or with a maximum of two side curtains, to 
+allow for adequate air circulation and to prevent 
+overheating (Davis, 1999b). 
+ 
+Although goldenseal can be grown successfully 
+under an artificial structure, some authors (Beyfuss, 
+1999; Davis, 1999b) and growers have suggested that 
+a forest site is better than an artificial shade structure  
+ 
+ 
+because the natural diversity and air circulation in the 
+forest system help prevent major problems with 
+disease and insects. Large populations of natural 
+goldenseal thrive in mixed woods with oaks  (Quercus 
+spp.), maples  (Acer spp.), hawthorns (Crataegus 
+spp.), walnut  (Juglans nigra L.), hickories  (Carya 
+spp.), ironwood  [Ostrya virginiana  (Miller) K. 
+Koch], basswood  (Tilia americana L.), and ash 
+(Fraxinus  spp.) (Tables 1, 2). Similarly, optimal sites 
+for cultivating goldenseal are within stands of mixed, 
+deeply rooted hardwood trees such as oak, poplar 
+( Populus  spp.), walnut, and basswood (Cech, 1995,  
+2000; Davis, 1996b, 1999a, 1999b, 1999c; Konsler, 
+1987).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Table 1. Plant characteristics and soil analyses for 14 goldenseal sites near the northern range limit in Ontario, Canada. 
+ 
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  
+Site                                                       
+                         ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  
+Parameter  1 2 3 4 5 6  7  8 9 10 11 12 13 14 
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  
+Stems  1,153 768 106 4,329 45 2,324 2,597 455 188 440 37 241 50,544 648
+Patches  8 10 1 3 1 2  8 2 2 3 1 1 13 4
+Canopy1  Hs  W  I  Or, I  C  I, A  Hs, Or  Msu  Msu  M  Msu  Hb  Msu A
+Shade (%)  80 30 70 65 100 60  70 60 65 50 85 60  65 65
+pH 6.3 6.4 7.5 6.3 6.1 6.1 5.7 5.4  5.7  7.8  7.4  7.8  7.6 7.3
+P (ppm)  14  8  9  7 11 12  12 10 11 14 12  7  9 30
+K (ppm)  140 176 179 100 149  93  123  72  73 141 230  77  86 114
+Mg (ppm)  266 323 528 300 290 221  375 114 100 257 191 169  343 203
+Na (ppm)  129 80 73 72 76 81  77 73 90 74 73 81  78 62
+Ca (ppm)  2,270  2,780  8,240  2,730  2,420  2,360 2,710 1,290  1,420  7,350 8,300 6,960  2,160 3,990 
+Mn (index)  30 22 16 20 25 24  38 42 33 18 16 17  38 17
+Zn (index)  27 43 26 26 29 60  48 30 33 29 36 18  39 30
+OM2 9.7 8.9 12.1 8.2 8.1 9.4 11. 1 5.8 5.9 13.5 23.1 10.7 12.7 6.9
+Sand  33 33 70 39 75 75  33 33 75 70 70 33  40 33
+Silt (%)  33 33 20 37 12 12  33 33 15 20 20 33  40 33
+Clay  33 33 10 24 12 12  33 33 10 10 10 33  20 33
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 1 A = ash (Fraxinus spp.); C = cottonwood (Populus deltoides Marshall); Hb = bitternut hickory [Carya cordiformis (Wangenh.) K. Koch]; Hs = 
+shagbark hickory [Carya ovata (Miller) K. Koch]; I = ironwood [Ost rya virginiana (Miller) K. Koch]; M = maple (Acer spp.); Msu = sugar maple 
+(Acer saccharum Marshall); Or = red oak (Quercus  rubra L.); W = walnut (Juglans nigra L.). 
+2 Organic matter. 
+Table 2. Site characteristics for 7 goldenseal populations near the northern range limit 
+in Ontario, Canada, for which only  limited soil data were available. 
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 
+Site 
+                             ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯         
+Parameter   1              2   3    4    5    6    7 
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  
+Stems  283 165   640   203  45 261  10 
+Patches   2  5   7   5  1  1  1 
+Canopy l  E, Bas  Haw  Ob, Bas  Mr, Or  Haw  Haw  Ms
+Shade (%)  70 50  60  70 60 70 50
+Sand (%)  65 65  65  65 65 65 65
+Silt (%)  20 20  20  20 20 20 20
+Clay (%)  15 15  15  15 15 15 15
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 1 Bas = basswood (Tilia americana L.); E = elm (Ulmus americana L.); Haw = hawthorn  
+(Crataegus spp.); Mr = red maple (Acer rubrum L.); Ms = silver maple (Acer saccharinum 
+L.); Ob = bur oak (Quercus macrocarpa Michx.); Or = red oak (Quercus rubra L.).
+
+Plant species most frequently found associated 
+directly with goldenseal in natural populations, and 
+thus helpful in characterizing a goldenseal site, were 
+wooly blue violet ( Viola sororia Willd.), cut-leaved 
+cranesbill ( Geranium maculatum  L.), false Solomon's 
+seal [Maianthemum racemosum  (L.) Link ssp. 
+racemosum ], white trillium [Trillium grandiflorum 
+(Michx.) Salisb.], wild yam-root (Dioscorea 
+quaternata J.  Gemel.), enchanter's nightshade 
+(Circaea  spp.), inserted virginia creeper 
+[ Parthenocissus inserta (A.  Kern.) Fritsch.], wild leek 
+( Allium triccocum Ai ton), spotted touch-me-not 
+( Impatiens capensis  L.), snakeroot (Sanicula spp.), 
+false mermaid ( Floerkea proserpinacoides  Willd.), 
+trout lily Erythronium  spp.), and wood anemone 
+( Anemone quinquefolia  L. var. quinquefolia ).  Patches 
+of bloodroot ( Sanguinaria canadensis  L.), mayapple 
+( Podophyllumpeltatum  L.), white trillium, and blue 
+cohosh [ Caulophyllum thalictroides  (L.) Michx] were 
+often common and scattered throughout the woods 
+where goldenseal occurred  (pers. obs.; Davis, 1996b, 
+1999a, 1999b, 1999c; Konsler, 1987). The presence 
+of these woodland herbs indicates appropriate 
+woodland sites for cultivati on. These authors suggest 
+avoiding sites where undergrowth is very thick 
+because of competition for resources and reduced air 
+circulation. However, the most vigorous naturally 
+occurring plants (i.e., largest and darkest green) grew 
+in a woodland edge where undergrowth was thick, 
+and raspberry  (Rubus spp.), spice bush  [Lindera 
+benzoin  (L.) Blume], and various introduced woody 
+shrubs were common. 
+ 
+Cultivation requirements 
+Soil texture.   Of the natural populations surveyed, 13 
+grew in sandy loam, 6 in clay loam, and 2 in loam 
+soils.  
+ 
+Fourteen of the 15 interviewed growers were 
+successfully growing golden seal in loam soils (7 
+growers specified sandy or  clay loam, 1 specified 
+sandy or silty loam; Table 3). Similar preferred soil 
+type has been reported by researchers and 
+experienced growers (Cech, 1995, 2000; Davis, 
+1996a, 1996b, 1999a, 1999b, 1999c; Konsler, 1987). 
+Konsler (1987) and Davis (1996b) state that 
+goldenseal tolerates any soil type except heavy clay 
+or light sand, but some growers reported successful 
+growth in predominantly clay or predominantly 
+gravelly soils (Table 3). In so far as soil texture 
+contributes to a large population, the largest natural 
+populations grew in loam soils (Table 1). The 
+healthiest natural population, based on number of 
+stems, number of patches, leaf size, and leaf color 
+(i.e., health defined in terms of size of the population,  size of plants in the population, and absence of stress 
+as suggested by color), occu
+rred in clay loam soil. 
+ 
+Moisture.  Natural populations of goldenseal occur 
+on uplands in mesic woods, as well as on lowlands 
+near rivers in dry mesic to mesic woods (Sinclair and 
+Catling, 2000a). Many sources allude to a preference 
+for moist but well-drained soils (Davis, 1996a, 
+1996b, 1999a, 1999b, 1999c; Hardacre et al., 1962; 
+Li and Oliver, 1995; Maskewich, 2000; McLellan 
+and Felton, 1998; Merwin, 2000; Reeleder, 2000). 
+All 15 growers indicated that moist but well-drained 
+soils are optimal for goldenseal growth; however, one 
+grower grew one plot of plants successfully in what 
+was referred to as "sloppy, muddy" conditions (Table 
+3). 
+ 
+According to Konsler (1987), goldenseal grows best 
+on slopes that provid e good surface drainage; 
+however, 6 growers reported excellent growth on 
+level (or slightly sloping) terrain without raised beds, 
+and 12 of 21 natural populations (60%) occurred on 
+level land. Davis (1999a, 1999c) states that, under 
+cultivation, raised beds should be constructed to 
+promote good water drainage. Eight of the 
+interviewed growers had success with raised beds, 
+but seven also had success without them. Davis 
+(1996a) suggests mulching with shredded leaves, 
+chopped straw, and similar materials, to reduce 
+moisture loss and weed growth, and increase winter 
+protection. Seven growers reported the use of mulch  
+to increase soil organic matter content rather than to 
+protect the plants during winter. Disadvantages of 
+surface mulch include its removal to allow 
+emergence of seedlings and its provision of cover for 
+certain pests such as slugs. Current research is 
+directed at optimal mulch  selection and it appears so 
+far that plants perform best with hardwood and pine 
+bark mulches (J.M. Davis, North Carolina State 
+University, pers. comm., 2000). Bryant (1977), an 
+experienced grower, emphasized the importance of 
+preventing the beds from drying out in summer.  
+ 
+When grown under a forest canopy, goldenseal 
+usually does not require irrigation, unless subject to  
+drought conditions, which cause plants to drop 
+foliage and become dormant earlier (Davis, 1999c). 
+While some interviewed growers irrigate during 
+periods of plant stress, many reported that irrigation 
+is not necessary, and a few emphasized "no 
+irrigation" (Table 3).
+
+(Continued on next page 
+ 
+Table 3. Information on goldenseal production obtained from interviews with 12 growers in the U.S. and 3 growers in Canada with  5 to 18 
+years experience in growing goldenseal. 
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  
+State/                        Soil                Soil            Soil                0M1         Shade 
+Province         Method         moisture         texture         pH                (%)            (%)                           Comments 
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  
+ 
+British  raised beds  moist, not  sandy  7   5 dry wt  78    Gentle slope; little fertilizer used 
+Columbia   wet   loam 
+ 
+Iowa woodland well  loam 6  high  78  Gentle slope; tough with seeds, hard to get going 
+  drained 
+ 
+Maine woodland, moist, sandy 5.5-6.5  high, leaf  70-75  Level ground; 3-4 yrs to harvest from rootstock; 
+ raised beds  good  loam    mold    seeds are fussy 
+  drainage 
+Missouri woodland moist, well sand y  3.5-5  high  87  Slight slope; 3 yr s until harvest from rootstock 
+  drained loam 
+New York  woodland,  moist, well rocky  4.8  15-25  75  Slope 20-30 °; low germination rates with seeds; 
+  raised beds  drained  clay        fruit pulp inhibits germination; does not irrigate; 
+           does well in sloppy, muddy spot; tolerates wetter, 
+           drier, and sunnier conditions than ginseng; easier 
+           to grow than ginseng; will sunburn; plants with 
+           ginseng for less disease; impossible to dig out a 
+            goldenseal bed-one fiber starts a new popula 
+           tion; very tough plant; uses sugar maple sawdust 
+       mulch 
+ 
+North woodland, moist loam 6-6.5 30-50 70-80 Gen tle slope; never irrigated, naturally moist; 
+Carolina  no raised           more tolerant of drought, soil type, etc. than gin- 
+ beds            seng; likes lime, grows prolifically in lime belt 
+           between North Carolina and Tennessee; north fac- 
+           ing slope best, next best is east; shade cloth is 
+           mistake; does not fertilize; uses 3/4 pine bark 
+           compost and 1/4 veggie mulch; size of bud, 1gth. 
+           of rhizome, and no. of rootlets critical; seeds chal- 
+           lenging; 5 yrs to harvest from rootstock 
+ 
+North woodland moist, well loam 5.6 high  ≥70  Fairly steep terrain; grow s best in loam with leaf 
+Carolina patches  drained         mold 
+ 
+North  raised beds  moist, well  lo am  5.5-6  50  70  Slight slope; no luck  with seeds; 4 yrs to harvest 
+Carolina   drained          from rootstock; prefers soil rich in humus 
+ 
+Ohio  woodland  moist, well  loam  6-7  high  75-80  Level ground; favors beech canopy; 4 yrs to har- 
+ patches  drained          vest from rootstock; grows in almost swampy con 
+           ditions; grows well in loose and crumbly clay 
+           also; once established, can withstand drought; 
+           composted leaves added; very fertile soil is op- 
+       timal 
+ 
+Ohio  woodland,  moist, well  sandy or  5-6.5  high, 5  70  Level ground; rots in we t conditions; tolerates as 
+ raised beds  drained  clay    dry wt    low  as 50% shade, depending on zone; 4 yrs to 
+   loams        harvest from 3-g root, 6-7 yrs from seed; culti 
+           vated goldenseal grows significantly better than 
+           in the wild; no proof yet for better growth with 
+           high Ca; raised beds minimize disease, make har- 
+       vesting  easier
+
+pH.  The naturally occurring goldenseal populations 
+occur in soil with pH ranging from 5.4 to 7.8. The 
+largest populations were observed in soil with pH 6.3 
+to 7.8. Other large populations (>1000 stems) 
+occurred within a soil pH ra nge of 5.7 to 6.3. Three 
+of the five smaller populations ( ≤ 241 stems) grew in 
+soil with pH > 7.4 (Table 1). The healthiest 
+population grew in soil with  pH 6.4. Davis (1996a, 
+1998, 1999b) found optimal growth (100% survival, 
+larger and healthier plant tops, higher fresh root 
+weight) between pH 5.5 to 6.5, based primarily on 
+experiments with goldenseal grown in pots with 
+forest soil under a wood lath structure. Almost all 
+interviewed growers reported optimal growth within 
+the same pH range. However, one grower in New 
+York State (listed in Table 3) reported successful 
+woodland cultivation in soil  with pH 4.8. Davis and 
+Bir (1998) emphasize the importance of maintaining 
+pH at 5.5 to 6.5 because  of the sensitive relationship 
+between pH and growth. 
+ 
+Soil fertility.   Soil fertility (nutrients and organic 
+matter) data for 14 naturally occurring goldenseal 
+populations are presented in  Table 1. According to 
+fertility guidelines for native ornamentals 
+(OMAFRA, 2000), all populations occurred in soil 
+with high organic matter; adequate Mg, Mn, and Zn; 
+but low P. Although population size and health are  generally attributed to soil fertility, two of the largest 
+populations (>1000 stems) occurred in soils with low 
+K, and two with medium K levels. Of the smallest 
+populations (
+≤ 241 stems), two grew in soils with low 
+K, two with medium K, and one with very high K 
+levels. The healthiest populations, based on number 
+of stems, number of patches, leaf size, and leaf color, 
+occurred in soils with medium K levels. Goldenseal 
+is widely reported to prefer rich or fertile soils 
+(Beyfuss, 1999; Davis, 1996a, 1999a, 1999b, 1999c; 
+Kelly, 1977; Maskewich, 2000; Reeleder, 2000) high 
+in organic matter (Beyfuss, 1999; Bryant, 1977; 
+Davis, 1996b, 1999b; Hardacre, 1977; Konsler, 1987; 
+McLellan and Felton, 1998). All 15 growers 
+indicated that goldenseal grows best in very fertile 
+soil high in organic matter. Most did not quantify the 
+amount of organic matter in the soil, but merely 
+indicated that it was "high." Other growers stated 
+that, based on visual observations, organic matter 
+content of their soils ranged between 15 and 70% 
+(Table 3). 
+Table 3. Information on goldenseal production  obtained from interviews with 12 growers in the U.S. and 3 growers in Canada with  5 to 18 years 
+experience in growing 
+goldenseal. (Continued) 
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  
+ 
+State/                           Soil              Soil           Soil             OM1            Shade 
+Province        Method             moisture       texture        pH             (%)               (%)                              Comments 
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  
+ 
+Ontario woodland moist, not loam 7  high 50 Slight slope or level ground; composted manure 
+ edge, raised  dry or          added each spring; grows best in good forest soil 
+ beds sloppy     (loam)  
+ 
+Ontario woodland, moist, well sandy 5-6.5 70  70-80 Level ground; 3-4 yrs to harvest from rootstock; 
+ raised beds  drained  loam        uses seed from 3-yr-old plants, germination is 
+       90% 
+ 
+Oregon  woodland,  moist, me-  sandy or  no test  high  no test  Level ground; select good forest soil; give it as 
+ no raised  sic forest  clay               much light as it will take; grows well at forest 
+ beds      loams              edge; poor evidence for yield improvement with 
+                      hardwood compost; leaf mulch is good to add 
+ 
+Tennessee  woodland  moist                loam  5.5-6.5  20    80-85  Level ground 
+ 
+Wisconsin  artificial  well    sandy or  5-6.5  3-4 dry  75-78  Level ground; little chemicals required; high la- 
+ shade,  drained  silt        wt      bor costs ($28/hr); 4 yrs to harvest from root 
+ raised  beds   loarns         stock; 6 yrs to harvest from seed; seeds not diffi- 
+                       cult at all 
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 1 Organic matter content is measured as the percentage of the  soil based on visual observation, unless otherwise indicated. 
+ 
+Before planting goldenseal, it is generally 
+recommended that the soil be tested and fertility 
+recommendations for native ornamentals be 
+followed, if the soil testing laboratory does not 
+provide any specific guidelin es for goldenseal (Davis, 
+1996a, 1999a, 1999c). If tests indicate low fertility 
+levels, addition of organic matter, such as composted 
+manure, composted leaves, bone meal or cottonseed
+
+meal, is recommended (Bryant, 1977; Davis, 1996a, 
+1999c). Goldenseal does not benefit from addition of 
+inorganic N or P, based on a 3-year experiment with 
+application rates of 0 to 0.3 kg/m
+3 N and 0 to 0.3 
+kg/m3 P (Davis, 1998, 1999a, 1999b; Davis and Bir, 
+1998). None of the interviewed growers used 
+chemical fertilizers, but instead added organic 
+material such as leaf mold or composted manure 
+(Table 3). Davis (1996a, 1999c) and Li and Oliver 
+(1995) stress the importance of avoiding over 
+fertilization as it can promote plant disease. 
+According to Davis (1999c), goldenseal growing on 
+high organic matter soils should be only lightly 
+fertilized with an organic source of nutrients. 
+Furthermore, Davis (1999c) suggests application of a 
+balanced fertilizer at a low rate each spring, and Cech 
+(1995), a grower with over  15 years of experience, 
+suggests addition of  compost each summer. 
+One interviewed grower reported that goldenseal 
+"grows prolifically in [the] lime belt between North 
+Carolina and Tennessee" (Table 3). However, T. 
+Blakley (pers. comm., 2000)  at the National Center 
+for the Preservation of Medicinal Herbs in Rutland, 
+Ohio, pointed out that there is no proof yet that 
+goldenseal will produce more with higher Ca levels. 
+In fact, preliminary results  from an ongoing calcium 
+study show that application of 2.2 to 5.6 Mg of Ca ha
+-
+1
+ (2,000 to 5,000 lb ac-1) reduced leaf number and 
+plant height, increased dis ease incidence, and caused 
+earlier dieback (J.M. Davis, pers. comm., 2000). 
+ 
+Shade.   Natural populations in the northern range 
+limit of goldenseal were subject to 30 to 90% shade. 
+Shade requirements reported by interviewed growers 
+and in the cultivation literature fall within the upper 
+portion of this range. Interviewed growers reported 
+70 to 87% shade as optimal for growth, except for 
+one Ontario grower who reported optimal growth 
+under 50% shade. Hardacre (1977) successfully grew 
+goldenseal under 66% shade; other researchers and 
+farm managers report 75 to 80% shade for optimal 
+growth (Beyfuss, 1999; Davis, 1996a, 1999b; Li and 
+Oliver, 1995; Merwin, 2000). Konsler (1987) 
+reported 65 % shade as minimum tolerance. 
+Conversely, natural populations thrived with as little 
+as 30% shade. The healthiest natural population grew 
+under 30% shade in a woodland edge, and one 
+grower also found that goldenseal grew well at the 
+forest edge (Table 3). The largest natural populations 
+(>1000 stems) grew under conditions of 60 to 65% 
+shade (Tablet). Although studies are not complete, 
+Davis (1999a) reported that optimal plant growth 
+occurred between 63 and 80% shade, and the highest 
+plant stand counts and survival occurred under 
+conditions of 47 to 63% shade. T. Blakley (pers. 
+comm., 2000) suggested th at 50% shade may be  adequate in the northern 
+U.S. states and southern 
+Canada, but in the warmer south, 70% would likely 
+produce better results. Davis (1996b, 1999a, 1999b, 
+1999c) and Konsler (1987) suggest avoiding 
+cultivation sites in forests with no undergrowth 
+(possibly it is too dark or dry). In natural populations, 
+plant vigor was low (i.e., wilted, discolored, and 
+shorter plants) with 90% shade and sparse 
+undergrowth, but high (larger, greener plants) in sites 
+with an even undergrowth and up to 70% shade. 
+ 
+Propagation.   Goldenseal can be propagated from 
+rhizome pieces, seed, buds, one-year-old seedlings, 
+and/or root cuttings (Bryant, 1977; Davis, 1996a, 
+1998, 1999a, 1999b; Konsler, 1987; Li and Oliver, 
+1995; Merwin, 2000). It takes 3 to 5 years to grow 
+harvestable roots from rhizome pieces, 5 to 7 years 
+from seed (Cech, 2000; Davis, 1996a, 1999a; 
+Merwin, 2000), and 4 to 6 years from root cuttings or 
+seedlings (Davis, 1999a). Literature sources indicate 
+that goldenseal is most easily and reliably propagated 
+by dividing rhizomes in 2.5 cm (1 inch) or larger 
+pieces, each with a bud and roots (Davis, 1996a, 
+1999a, 1999b, 1999c; Konsler, 1987). 
+From 24 to 27 August, 1999, at the start of 
+senescence, the authors planted 100 rhizome pieces, 
+each with at least 1 bud an d numerous rootlets, at 
+each of 5 sites where golden seal grows naturally in 
+Ontario. Based on analysis of variance, no significant 
+difference in growth (leaf width and plant height) 
+was found in either spring (4 to 6 May, 2000), 
+summer (19 to 21 June, 2000), or fall (21 to 23 
+August, 2000) between small rhizome pieces [<2.5 
+cm (1 inch)] and larger pieces [<5 cm (2 inches), 
+<7.5 cm (3 inches), and > 7.5 cm (3 inches)]. Studies 
+on rhizome size (primarily its length) and rootlets, 
+with or without buds, show that numerous healthy 
+rootlets on a rhizome are important (i.e., little or no 
+growth without) and latent buds produce plants when 
+buds are not obvious or broken off (Davis, 1998). 
+One of the interviewed growers stressed that bud 
+size, rhizome size, and num ber of rootlets affect 
+growth rate (Table 3). Ease of propagation was 
+emphasized by many of the interviewed growers, and 
+most prefer to use rhizome pieces that allow earlier 
+harvest. 
+One grower reported positive results from passing 
+goldenseal roots through a wood chipper, scattering 
+the pieces over prepared beds, and raking them into 
+the soil. Another grower claimed it was impossible 
+for a goldenseal bed to be completely dug out 
+because root fragments left  in the soil will start a new 
+population. Davis (1998) also reports that small root 
+pieces left in the soil after harvest produce new plants 
+the next year. Some have  had success by simply 
+layering rootlet cuttings in a bed, letting them grow
+
+for a year, and transplanting them (Davis, 1998, 
+1999a). 
+Literature on cultivation (Davis, 1996a, 1999c) 
+and information from interviewed growers (Table 3) 
+indicates that propagation of  goldenseal by seed is 
+difficult and unpredictabl e. Cech (2000) places 
+cultivation of goldenseal by seed in the "extra care" 
+category (compared to "challenging" or "easy"). 
+Germination rates of purchased seed range from 0 to 
+90% (Davis, 1999c). Davis (1999b) reports that many 
+growers achieve only 30 to 40% germination the first 
+spring after sowing. She obtained about 33% 
+germination the first year, but up to 94% the second 
+year after sowing. Through experimentation, Davis 
+(1998) found no effect of extraction method or 
+disinfecting treatment on germination, but that 
+sowing time and temperature were critical. The 
+highest germination percentage was with seeds held 
+at room temperature (21 °C) for 2 weeks before 
+planting, and the highest germination (up to 88%) 
+was with seeds sown in August (shortly after 
+extraction), compared to late fall or spring. 
+Interestingly, one interv iewed grower emphasized 
+that propagation by seed was not difficult (Table 3). 
+ 
+Diseases and pests.  None of the 21 wild populations 
+of goldenseal showed evidence of disease or pest 
+problems. Similarly, cultivated goldenseal rarely 
+suffers from disease or pe sts when grown in small 
+plots in the woods (Davis, 1999a, 1999c). Some 
+plantings may be affected by botrytis leaf spot and/or 
+slugs (Davis, 1999c; Li and Oliver, 1995). Removal 
+of affected foliage and mu lch provides reasonable 
+control for botrytis (Davis, 1999a), and successful 
+methods of control for slugs have been documented 
+(Davis, 1999a, 1999c). However, as goldenseal has 
+been increasingly cultivated, there are now more 
+reports of diseases (caused by  Alternaria, 
+Rhizoctonia,  and Fusarium ) occurring under artificial 
+shade structures, but not in  the forest (Beyfuss, 1999; 
+Davis, 1999a, 1999c).  The more intensive the 
+production system used, the greater incidence of 
+disease (Davis, 1999b). The  chance of diseases can 
+be reduced by proper san itation practices, adequate 
+air and water circulation, and avoiding over 
+fertilization (J.M. Davis, North Carolina State 
+University, pers. comm., 2000). None of the 
+interviewed growers reported any diseases or pests 
+associated with their  production practices. 
+ 
+Commercial production 
+Some ginseng farmers have taken advantage of 
+goldenseal's potential as a rotation crop (Merwin, 
+2000). Its value results from the perception that 
+ginseng cannot be grown continuously due to 
+deterioration of soil quality. However, this may be  overstated since soil quality adequate for ginseng 
+production can be maintained (T.S.C. Li, Agriculture 
+and Agri-Food Canada, pers. comm., 2000). Ginseng 
+farmers have noted that goldenseal has similar 
+cultural requirements and, 
+consequently, there is 
+substantial potential profit in taking advantage of an 
+existing ginseng plantation to grow goldenseal. The 
+raised beds, forest site, or shade apparatus is already 
+in place and similar equipmen t can be used in crop 
+management and harvesting. It is generally conceded 
+that goldenseal is less difficult to grow than ginseng 
+because of the greater tolera nce of the former crop to 
+higher light intensity, wetter conditions, and diseases 
+and pests (Beyfuss, 1999; Bryant, 1977; Cech, 1995; 
+Davis, 1996a, 1996b; Konsler, 1987; Table 3). Two 
+growers indicated that goldenseal is more tolerant of 
+drying out and grows well in much wetter conditions, 
+compared to ginseng, and goldenseal roots are less 
+likely to rot (Table 3). Goldenseal is not affected by 
+the most serious diseases of ginseng, e.g., leaf and 
+stem blight caused by Alternaria  panax  and root rot 
+caused by  Phytophthora cactorum  (Beyfuss, 1999; 
+Davis, 1999a). In fact, goldenseal may be grown 
+successfully in locations where ginseng crops have 
+failed due to root rot caused by  P. cactorum (Davis, 
+1999a). Davis (1998) found that by the second year 
+after planting old ginseng beds half with goldenseal 
+and half with ginseng, 28% of the ginseng remained 
+compared to 80% of the go ldenseal, at one site, and 
+83% of the goldenseal was left, but none of the 
+ginseng, at another site. Cech (1995) reports that 
+some growers mix goldenseal plants in with their 
+ginseng to "purify" the soil. One of the growers 
+reported use of this strategy (not recorded in Table 
+3). One farmer growing both ginseng and goldenseal 
+referred to them as "the king and the queen," the 
+"queen" (goldenseal) being more robust and reliable. 
+ 
+Current research 
+Several cultivation studies under the direction of J.M. 
+Davis are underway at North Carolina State 
+University (Davis, 2000a). Included are studies on 
+factors influencing quality grades (based on alkaloid 
+content), propagation methods (rhizome pieces and 
+rootlets), seed germination, spacing of seedlings and 
+rhizome pieces (5 cm x 5 cm to 30 cm x 30 cm), 
+mulches (seven types), and shade (four levels). She is 
+also investigating the potential of goldenseal as a 
+rotation crop for ginseng in terms of soil 
+improvement (Davis, 1998). J. Simon at Purdue 
+University is testing whether goldenseal is more 
+subject to diseases under  a shade structure compared 
+to a forest canopy (Davis , 1998). Research on the 
+cultivation requirements of goldenseal is also being 
+conducted at the National Ce nter for the Preservation 
+of Medicinal Herbs in Rutland, Ohio. Studies include
+
+identification of diseases and pests; importance of 
+solar direction; comparison of yield from seed vs. 
+rootstock and from raised beds vs. planting in 
+ground; light, fertility, and pH requirements; 
+mulches; seed stratification techniques; drying 
+methods; and storage methods (McNeill et al., 2000; 
+T. Blakley, National Center for the Preservation of 
+Medicinal Herbs, pers. comm., 2000). Research 
+currently being conducted by R.D. Reeleder at 
+Agriculture and Agri-Food Canada's Southern Crop 
+Protection and Food Research Centre features 
+alternative methods of generating planting stock to 
+ensure that crops are not established from 
+wild-collected roots, to halt decline of natural 
+populations. Longer-term goals at this Centre involve 
+remedies for pest control (Reeleder, 2000). A. 
+Sinclair (Catling and Sinclair, 1998; Sinclair and 
+Catling, 2000a, 2000b; Sinclair et al., 2000) is 
+studying habitat requirements and effects of 
+disturbance that relate to growing conditions and 
+cultivation. Two recent conferences (Louisville, 
+Kentucky, 9-11 May 2000, and Leeds, New York, 
+7-9 September 2000) have raised awareness of the 
+potential of ginseng and goldenseal crops. The 
+Louisville conference, organized by T. Jones, 
+University of Kentucky Extension Horticulture 
+Specialist, featured worksh ops to teach growers how 
+to produce ginseng and goldenseal under semi-
+natural and organic conditions, resulting in higher 
+cash value. 
+ 
+Other considerations 
+The demand for goldenseal may not reach the point 
+of allowing it to become a significant crop or even a 
+significant rotational crop in ginseng cultivation, in 
+terms of hectarage, but there is little doubt that it will 
+become much more widely grown on a commercial 
+basis. Considering this possibility, there are several 
+benefits of growing goldenseal to bear in mind. 
+ 
+Environmental friendliness.  Goldenseal has an 
+approximate "biodiversity- friendly" score of 17, 
+making it one of the crops that contributes most to 
+biodiversity protection. Its very high score is a 
+consequence of various char acteristics such as: (1) it 
+requires relatively little agricultural input (i.e., 
+fertilizers and pesticides); (2) it contributes to 
+protection of wild species; (3) it requires relatively 
+low energy for maintenance and harvest; (4) it has a 
+high value per ha and relatively low hectarage 
+requirement; (5) it can be grown in rotation thus 
+reducing the need for agrichemicals; and (6) its 
+flowers produce food for pollinators. 
+ 
+Sustainability and germplasm protection. 
+Reduction of the increasing threat to natural  populations as a result of cultivation could decrease 
+the likelihood of loss of goldenseal germplasm. The 
+germplasm may prove valuable in crop development 
+if goldenseal gains popularity as a crop. 
+ 
+Low fertilization and energy requirements. Davis 
+(1998, 1999a, 1999
+b) found that addition of inorganic 
+N (ammonium nitrate) and  P either reduced growth 
+or had little effect, indicating that fertilizer 
+requirements are generally low. Minimizing 
+fertilization reduces both actual and environmental 
+costs. Less expensive organic sources of fertilizer, 
+such as leaf compost, manure compost, bone meal, or 
+cottonseed meal, have been recommended by 
+researchers and growers  as more effective for 
+goldenseal production (Bryant, 1977; Davis, 1996a; 
+Hardacre, 1977; McNeill et al., 2000; Reeleder, 
+2000). 
+ 
+Availability of planting stock 
+Suppliers of plant propagation material are readily 
+available on the World Wide Web; however, a survey 
+by the American Herbal  Products Association 
+indicates that most material is obtained from wild 
+sources (McGuffin, 1999). Suppliers and/ or local 
+natural resource departments may be able to ensure 
+that source material has originated from cultivation. 
+Current research is directed at alternative methods of 
+generating planting stock (Reeleder, 2000) and 
+optimizing cultivation techniques (McNeill et al., 
+2000), to reduce collection from wild populations. 
+Suppliers are also encouraging growing the plant 
+from seed (Cech, 2000). Regional natural populations 
+contain characteristics, in cluding local climate and 
+pest adaptation, and possibly genetic variation in 
+blight and drought resistance, alkaloid content, and 
+other characteristics, necessary to develop and 
+maintain a viable crop in local areas. 
+ 
+Summary and Conclusions 
+There has recently been much increased interest in 
+goldenseal cultivation. It is relatively easy to grow 
+and may provide a useful diversification crop. At the 
+same time cultivation may increase availability of 
+this medicinal herb and contribute to the protection of 
+natural populations. As a crop, goldenseal is 
+considered relatively inex pensive, can be grown 
+throughout a large region  of North America, and 
+contributes in a number of ways to the goals of 
+sustainable agriculture. 
+ 
+Acknowledgements.   J.M. Davis, North Carolina 
+State University; T.S.C. Li., Agriculture and Agri-
+Food Canada, Summerland Research Centre; T. 
+Blakley, National Center for the Preservation of 
+Medicinal Herbs; and R. Cech, Horizon Herbs, were
+
+particularly helpful in providing information. The 
+goldenseal growers provided a wealth of information 
+and encouragement for development of this 
+manuscript. 
+___________________________________________ 
+A. Sinclair is Biology Student, Biology Department, 
+University of Ottawa, Ontario KIN 6N5, Canada; 
+P.M. Catling is Research Scientist, Eastern Cereal 
+and Oilseed Research Centre, Agriculture and Agri-
+Food Canada, Research Branch, Wm. Saunders 
+Building, Central Experimental Farm, Ottawa, 
+Ontario KIA OC6, Canada. Corresponding author is 
+P.M. Catling (
+catlingp@em.agr.ca). 
+___________________________________________ 
+References 
+Adam, K. 2000. Ginseng, goldenseal, and other 
+native roots. Hort. T ech. Note. Appropriate 
+Technology   Transfer for Rural Areas, Fayetteville, 
+AR. Web site 
+http://www.attra.org/a ttra-pub/ginsgold.html (viewed 
+January 2001). 
+ 
+Beyfuss, R.L. 1999. Growing ginseng and goldenseal 
+in your forest. New York State Dept. of 
+Environmental Conservation, Division of Lands and 
+Forests. Web site      
+http://www.dec.state.ny.us/website/dlf/privland/forpr
+ot/ginseng/growing_guide.html (viewed January 
+2001). 
+ 
+Bryant, G. 1977. Ginseng and goldenseal. In J. Kelly 
+(ed.). Herb Collector's Manual and Marketing Guide: 
+Ginseng Growers and Collectors Handbook. 5th ed. 
+Wildcrafters, Looneyville, WV. p. 26-30. 
+ 
+Catling, P., and A. Sinclair. 1998. The history of the 
+golden seal. Recovery: An Endangered Species 
+Newsl. (Spring): 12. Environment Canada, Canadian 
+Wildlife Service, Ottawa, Ontario. Web site       
+http://www.cws-scf.ec.gc.ca/es/recovery/spring98/en
+g/9801seal.html (verified April 2001). 
+ 
+Cech, R. 1995. Forest Roots (Cultivation of the 
+Medicinal Roots: Black Cohosh, Ginseng, 
+Goldenseal and Cild Yam). Horizon Herbs, Williams, 
+OR. 
+ 
+Cech, R. 2000. Horizon Herbs Strictly Medicinal 
+Growing Guide and Catalog (Fall). Horizon Herbs, 
+Williams, OR. 
+ 
+CITES. 2000. CITES-listed Sp ecies Database: Flora. 
+Convention on International Trade in Endangered 
+Species of Wild Fauna and Flora, Geneva,  Switzerland. Web site 
+http://www.cites.org/ (viewed 
+January 2001). 
+ 
+Davis, J.M. 1996a. Advances in goldenseal 
+cultivation. Hort. Info. Leaflet 131. North Carolina 
+Cooperative Extension Service, Raleigh. 
+ 
+Davis, J.M. 1996b. Cultivation of native woodland 
+botanicals. Medicines from the Earth, Protocols for 
+Botanical Healing. 1996 Offi cial Proceedings of the 
+Gaia Herb Conference,  Black Mountain, NC. p. 
+35-39. 
+ 
+Davis, J.M. 1998. Goldens eal. Transcripts from the 
+Second Annual Richters Commercial Herb Growing 
+Conference, October 25-26, 1997. Richters, 
+Goodwood, Ontario. p. 133-143. 
+ 
+Davis, J.M. 1999a. Commercial goldenseal 
+cultivation. Hort. Info. Leaflet 131. Rev. ed. North 
+Carolina Cooperative Extension Service, Raleigh. 
+Web site 
+http://www.ces.ncsu.edu/depts/hort/hil/hil-
+131.html (viewed January 2001). 
+ 
+Davis, J.M. 1999b. Goldenseal and ginseng 
+production. Proc. 4th Annual Herb Business Getaway 
+Conference, January 28-31,  Palm Coast, Florida. 
+Herb Growing and Marketing Network, Silver 
+Spring, PA. p. 75-80. 
+ 
+Davis, J.M. 1999c. Forest production of goldenseal. 
+Agroforestry Note 16. U.S. Dept. of Agriculture, 
+National Agroforestry Center, Lincoln, NE. Web site 
+http://www.unl.edu/nac/afnotes/ff-5/ff-5.pdf (verified 
+April 2001). 
+ 
+Davis, J.M. 2000a. Home page. North Carolina State 
+University, Dept. of Hortic ultural Science, Fletcher, 
+NC. Web site 
+http://fletcher.ces.state.nc.us/staff/jmdavis/home.html 
+(verified April 2001).  
+ 
+Davis, J.M. 2000b. Sources of goldenseal seeds, 
+plants or roots. Hort. Info. Leaflet 123. Revised 
+March North Carolina Cooperative Extension 
+Service, Raleigh. Web site 
+http://www.ces.ncsu.edu/depts/t/hil/hil-123.html 
+(viewed January 2001). 
+ 
+Davis, J.M., and R.E. Bir. 1998. Medicinal plants 
+with a potential niche ma rket for propagators. 
+Combined Proc. Intemational Plant Propagators' 
+Society 1997, 47:39-41. Seattle, WA. 
+ 
+Environment Canada. 1999. CITES (Convention on 
+International Trade in Endangered Species of Wild
+
+Fauna and Flora) Information Notes. Environment 
+Canada, Canadian Wildlife Service, Ottawa, Ontario. 
+Web site 
+http://www.cites.ec.gc.ca/cites/html/index.htm 
+(viewed January 2001). 
+ 
+Foster, S. 1991. Goldenseal:  Hydrastis canadensis. 
+Botanical Series 309. American Botanical Council, 
+Austin, TX. 
+ 
+Foster, S. 2000. Goldenseal,  Hydrastis canadensis: 
+Goldenseal's future.  Steven Foster Group, 
+Fayetteville,   AR.  Web site 
+http://www.herbphoto.com/education/monograph/gol
+denseal.html (viewed January 2001). 
+ 
+Haage, L.J., and L.J. Ballard. 1989. A Grower's 
+Guide to Goldenseal. Natu re's Cathedral, Norway, 
+IA. 
+ 
+Hardacre, J.V. 1977. Cultural hints on ginseng and 
+goldenseal. In J. Kelly (ed.). Herb Collector's Manual 
+and Marketing Guide: Ginseng Growers and 
+Collectors Handbook, 5
+th ed. Wildcrafters, 
+Looneyville, WV. p. 22-25. 
+ 
+Hardacre, J.V., G. Hender son, F.B. Collins, E.L. 
+Andersen, V.M. Harris, B. Fewster, R. Beck, D. 
+Bowman, and E.L.Donzelot. 1962. The Wildcrafters 
+Goldenseal Manual. Wildcrafters Publications, 
+Rockville, IN. 
+ 
+IUCN. 1997. Inclusion of Goldenseal  Hydrastis 
+canadensis  in Appendix 11 (Convention on 
+International Trade in Endangered Species of Wild 
+Fauna and Flora), U.S.A. April. International Union 
+on the Conservation of Nature, Gland, Switzerland. 
+ 
+Kelly, J. (ed.). 1977. Herb Collector's Manual and 
+Marketing Guide: Ginseng Growers and Collectors    
+Handbook. 5th ed. Wildcrafters, Looneyville, WV. 
+ 
+Konsler, T.R. 1987. Woodland production of ginseng 
+and goldenseal. Station Bull. 518:175-178. Purdue 
+University Agricultural Experiment Station, West 
+Lafayette, IN. 
+ 
+Li, T.S.C., and A. Oliver. 1995. Specialty crops 
+infosheet: Goldenseal. British Columbia Ministry of  
+Agriculture, Food and Fisheries, Victoria. 
+ 
+Lloyd, J.U. 1912. The cultivation of bydrastis. J. 
+Amer. Pharmaceut. Assoc. 1:5-12. 
+ 
+Maskewich, L. 2000. Medicinal, culinary and 
+aromatic crops: Goldenseal. March. Alberta  Agriculture, Food and Rural Development, 
+Edmonton. Web site 
+http://www.agric.gov.ab.ca/crops/special/goldenseal.
+html (viewed January 2001). 
+ 
+McGuffin, M. 1999. Having our goldenseal, and 
+growing it too. United Plant Savers Newsl. 
+(Summer). Web site 
+http://www.plantsavers.org
+/newsletter/summer1999/g
+s.html (viewed May 2000). 
+ 
+McLellan, T., and K. Felton. 1998. Goldenseal-Plant 
+in peril? Wild Notes WN398 (Ver. 2). U.S. Dept. of 
+Agriculture, Forest Service, Morgantown, WV. Web 
+site 
+http://www.fs.fed.us/na/morg antown/fhp/wildlife/gse
+al.htm (viewed January 2001). 
+ 
+McNeill, H., E. Renaud, and T. Blakley. 2000. 
+Summary of goldenseal research projects for 1998 
+and 1999. National Center for the Preservation of 
+Medicinal Herbs, Rutland, OH. Web site 
+http://www.ncpmh.org/GoldenSeal.html (viewed 
+January 2001). 
+ 
+Merwin, M. 2000. Medicinal herb crops can earn 
+extra income for forest  farmers. Temperate 
+Agroforester 8(2):1, 8-9. 
+ 
+Montford, S., and E. Small. 1999a. Measuring harm 
+and benefit: The biodiversity friendliness of 
+Cannabis sativa:  Preliminary criteria for comparing 
+biodiversity friendliness of crops make for first step 
+towards including ecological  impacts in analysis of 
+what crops to grow. Global Biodiversity 8(4):2-13. 
+ 
+Montford, S., and E. Small. 1999b. A companson of 
+the biodiversity friendliness of crops with special 
+reference to hemp  (Cannabis sativa L.). J. Intern. 
+Hemp Assoc. 6(2):53-63. 
+ 
+OMAFRA. 1988. Soil Testing Methods Approved for 
+Use in Ontario. Ontario Soil Management 
+Committee. Ontario Ministry of Agriculture, Food 
+and Rural Affairs, Ottawa. 
+OMAFRA. 2000. Nursery and landscape plant 
+production recommendations. Publ. 383. Ontario 
+Ministry of Agriculture, Food and Rural Affairs, 
+Ottawa. 
+ 
+Reeleder, R.D. 20 00. Goldenseal: Hydrastis 
+canadensis.  Agriculture and Agri-Food Canada, 
+Southern Crop Protection and Food Research Centre, 
+London, Ontario. Web site 
+http://res2.agr.ca/london/pmrc/english/study/newcrop
+s/goldseal.html (viewed January 2001).
+
+Robbins, C. 1996. Goldenseal-A candidate for CITES 
+(Convention on Intemational Trade in Endangered 
+Species of Wild Fauna and Flora) Appendix 11? 
+TRAFFIC USA 15:5-6. World Wildlife Fund; World 
+Conservation Union. 
+ 
+Sievers, A.F. 1949. Goldenseal under cultivation. 
+USDA Farmer's Bull. 613. Rev. ed. U.S. Dept. of 
+Agriculture, Washington, DC. 
+ 
+Sinclair, A., and P.M. Catling. 2000a. Status of 
+goldenseal,  Hydrastis canadensis  (Ranunculaceae), 
+in Canada. Canadian Field-Naturalist 114:111-120. 
+ 
+Sinclair, A., and P.M. Catling. 2000b. Ontario 
+goldenseal,  Hydrastis canadensis,  populations in 
+relation to habitat size, paths, and woodland edges. 
+Canadian Field-Naturalist 114:381-384. 
+ 
+Sinclair, A., P.M. Catling, and L. Dumouchel. 2000. 
+Notes on the pollination and dispersal of goldenseal, 
+Hydrastis canadensis  L., in southwestern Ontario. 
+Canadian Field-Naturalist 114:499-501. 
+ 
+Small, E., and P.M. Catling. 1999. Canadian 
+Medicinal Crops. National Research Council of 
+Canada, Ottawa, Ontario. 
+USFWS. 1997. Amendment to Appendix 11 of 
+CITES (Convention on International Trade in 
+Endangered Species of Wild Fauna and Flora), 
+U.S.A.-Proposal to Include  Hydrastis canadensis in 
+Appendix 11, in Accordance with Article 2, 
+Paragraph 2A. U.S. Fish and Wildlife Service, 
+Washington, DC. 
+ 
+Van Fleet, W. 1914. Goldenseal under cultivation. 
+USDA Farmers' Bull. 613. U.S. Dept. of Agriculture, 
+Washington, DC. 
+ 
+Veninga, L., and B.R. Zaricor. 1976. 
+Goldenseal/Etc.: A Pharmacognosy of Wild Herbs. 
+Ruka Publications, Santa Cruz, CA. 
+ 
+White, D.J. 1991. Status Report on the Golden Seal, 
+Hydrastis canadensis,  in Canada. Committee on the 
+Status of Endangered Wildlife in Canada, Ottawa, 
+Ontario. 
+ 
+Prepared By & Species Coordinator:   
+James F. Henson, Plant Physiologist 
+USDA NRCS National Plant Data Center 
+Baton Rouge, Louisiana  
+ 
+Edited: 06Dec2001 JFH; 060801 jsp 
+ 
+For more information about this  and other plants, please contact 
+your local NRCS field office or C onservation District, and visit the 
+PLANTS Web site<
+http://plants.usda.gov> or the Plant Materials 
+Program Web site <http://Plant-Materials.nrcs.usda.gov>  
+The U.S. Department of Agriculture (USDA) prohibits 
+discrimination in all its program s and activities on the basis of 
+race, color, national or igin, sex, religion, age, disability, political 
+beliefs, sexual orientation, and marital or family status. (Not all 
+prohibited bases apply to all programs.) Persons with disabilities 
+who require alternative means  for communication of program 
+information (Braille, large print, audiotape, etc.) should contact 
+USDA's 
+TARGET Center at 202-720-2600 (voice and TDD). 
+To file a complaint of discrimina tion write USDA, Director, Office 
+of Civil Rights, Room 326-W, Whitten Building, 14th and 
+Independence Avenue, SW, Washington, DC 20250-9410 or call 
+202-720-5964 (voice or TDD). USDA is an equal opportunity 
+provider and employer. 
+Read about Civil Rights at the Natural Resources Convervation Service.
