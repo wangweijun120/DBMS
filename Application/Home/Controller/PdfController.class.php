@@ -25,12 +25,14 @@ class PdfController extends Controller
         $this->db = D('pdf');
         $this->fields = $this->db->getDbFields();
     }
-    public function getProfile(){
+
+    public function getProfile()
+    {
         $symbol = $this->db->field('Symbol')->select();
         foreach ($symbol as $value) {
             $plant_arr = array();
-            $url = "https://plants.usda.gov/core/profile?symbol=ACNE2";
-                //. $value['Symbol'];
+            $url = "https://plants.usda.gov/core/profile?symbol=" . $value['Symbol'];
+            //. $value['Symbol'];
             $arr = array(
                 "url" => $url,
                 //"url" => 'http://localhost/in.html',
@@ -39,11 +41,27 @@ class PdfController extends Controller
             $vy = new  \Org\Util\Vquery($arr);
             $data = $vy->find("table");
             $r = $data->result;
-            $r=$r[0][4];
-            file_put_contents('table.txt',$r);
+            $r = $r[0][4];
             preg_match_all('/<tr>.*?<\/tr>/ism', $r, $trs);
-            var_dump($trs);
-            die();
+            $trs = $trs[0];
+            unset($trs[0]);
+            unset($trs[1]);
+            foreach ($trs as $tr) {
+                if (strpos($tr, 'Plant Guide') !== false || strpos($tr, 'Characteristics') !== false || strpos($tr, 'Fact Sheet') !== false)
+                    break;
+                preg_match_all('/<td.*?>.*?<\/td>/ism', $tr, $tds);
+                $tds = $tds[0];
+                $tds[0] = strip_tags($tds[0]);
+                $tds[0]=substr($tds[0],0,11);
+                $tds[0] = str_replace(':', '', $tds[0]);
+                $tds[0] = str_replace('\t', '', $tds[0]);
+                $tds[0] = str_replace(' ', '_', $tds[0]);
+                $tds[1] = trim(preg_replace("/\<.*?\>|\<.*?\>/", '', $tds[1]));
+                $this->addField($tds[0], 'varchar(255)');
+                $plant_arr[$tds[0]] = $tds[1];
+            }
+            $where['Symbol'] = $value['Symbol'];
+            $this->db->where($where)->data($plant_arr)->save();
         }
     }
 
@@ -51,7 +69,7 @@ class PdfController extends Controller
     {
         $symbol = $this->db->field('Symbol,Post_Product')->select();
         foreach ($symbol as $value) {
-            if($value['Post_Product']!=='')
+            if ($value['Post_Product'] !== '')
                 continue;
             $plant_arr = array();
             $url = "https://plants.usda.gov/java/charProfile?symbol=" . $value['Symbol'];
