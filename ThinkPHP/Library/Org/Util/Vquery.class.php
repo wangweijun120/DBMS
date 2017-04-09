@@ -177,6 +177,7 @@ class Vquery
             $content = curl_exec($conn);
             curl_close($conn);
         }
+       
         return $content;
     }
 

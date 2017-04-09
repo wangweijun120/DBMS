@@ -2,6 +2,7 @@
 // 本类由系统自动生成，仅供测试用途
 namespace Home\Controller;
 
+use mageekguy\atoum\report\fields\runner\result;
 use mageekguy\atoum\tests\units\writer\decorators\trim;
 use Think\Controller;
 
@@ -15,8 +16,8 @@ class PdfController extends Controller
     {
         //引用Vquery类，不同的框架或源生写法可能引入有差异。根据实际情况选择对应的引入方法。
         $arr = array(
-            "url" => 'https://plants.usda.gov/java/factSheet',
-            "url" => 'http://localhost/in.html',
+            "url" => 'https://plants.usda.gov/java/charProfile?symbol=ABGR',
+            //"url" => 'http://localhost/in.html',
             'method' => 'get',
         );
         // $arr=file_get_contents("http://www.jd.com/allSort.aspx");
@@ -24,11 +25,80 @@ class PdfController extends Controller
         $this->db = D('pdf');
         $this->fields = $this->db->getDbFields();
     }
-    public function test(){
+    public function getProfile(){
+        $symbol = $this->db->field('Symbol')->select();
+        foreach ($symbol as $value) {
+            $plant_arr = array();
+            $url = "https://plants.usda.gov/core/profile?symbol=ACNE2";
+                //. $value['Symbol'];
+            $arr = array(
+                "url" => $url,
+                //"url" => 'http://localhost/in.html',
+                'method' => 'get',
+            );
+            $vy = new  \Org\Util\Vquery($arr);
+            $data = $vy->find("table");
+            $r = $data->result;
+            $r=$r[0][4];
+            file_put_contents('table.txt',$r);
+            preg_match_all('/<tr>.*?<\/tr>/ism', $r, $trs);
+            var_dump($trs);
+            die();
+        }
+    }
+
+    public function test()
+    {
+        $symbol = $this->db->field('Symbol,Post_Product')->select();
+        foreach ($symbol as $value) {
+            if($value['Post_Product']!=='')
+                continue;
+            $plant_arr = array();
+            $url = "https://plants.usda.gov/java/charProfile?symbol=" . $value['Symbol'];
+            $arr = array(
+                "url" => $url,
+                //"url" => 'http://localhost/in.html',
+                'method' => 'get',
+            );
+            $vy = new  \Org\Util\Vquery($arr);
+            $data = $vy->find("table");
+            $r = $data->result;
+            $r = $r[0][3];
+            if (substr_count($r, '</tr>') < 20)
+                continue;
+            $r = preg_replace("#<!--[^\!\[]*?-->#", '', $r);
+            preg_match_all('/<tr>.*?<\/tr>/ism', $r, $trs);
+            $trs = $trs[0];
+            foreach ($trs as $tr) {
+                preg_match_all('/<td.*?>.*?<\/td>/ism', $tr, $tds);
+                $tds = $tds[0];
+                $tds[0] = trim(preg_replace("/\<.*?\>|\<.*?\>/", '', $tds[0]));
+                if ($tds[0] === '&nbsp;' || $tds[0] === '')
+                    break;
+                $tds[0] = str_replace(' ', '_', $tds[0]);
+                $tds[1] = trim(preg_replace("/\<.*?\>|\<.*?\>/", '', $tds[1]));
+                $this->addField($tds[0], 'varchar(255)');
+                $plant_arr[$tds[0]] = $tds[1];
+            }
+
+            $where['Symbol'] = $value['Symbol'];
+            $this->db->where($where)->save($plant_arr);
+            unset($plant_arr);
+        }
+
+        echo "successful!";
+
+
+        // var_dump($trs);
+
+    }
+
+    public function test1()
+    {
         foreach ($this->fields as $v) {
             $data = $this->db->where('1=1')->field($v)->select();
             if ($this->is_empty_array($data)) {
-                $this->dropField('pdf',$v);
+                $this->dropField('pdf', $v);
             }
         }
 
@@ -38,25 +108,29 @@ class PdfController extends Controller
 //        $sql="alter table 'pdf' drop COLUMN $field";
 //       var_dump( M()->execute($sql));
 //    }
-    function dropField($table,$f){
-        $sql="alter table `$table` drop column $f";
-       var_dump( M()->execute($sql));
+    function dropField($table, $f)
+    {
+        $sql = "alter table `$table` drop column $f";
+        var_dump(M()->execute($sql));
     }
-private function is_empty_array($arr){
-    foreach ($arr as $item){
-        foreach ($item as $k){
-            if($k!=='')
-                return false;
+
+    private function is_empty_array($arr)
+    {
+        foreach ($arr as $item) {
+            foreach ($item as $k) {
+                if ($k !== '')
+                    return false;
+            }
         }
+        return true;
     }
-    return true;
-}
+
     public function factSheet()
     {
         $data = $this->db->where('1=1')->field('Scientific_Name')->select();
         $i = 1;
         foreach ($data as $item) {
-             $url = 'D:/xampp/htdocs/spider/text/pg/pg_' . $item['Scientific_Name'] . '.txt';
+            $url = 'D:/xampp/htdocs/spider/text/pg/pg_' . $item['Scientific_Name'] . '.txt';
             //$url = 'D:/xampp/htdocs/spider/text/pg/pg_Acacia angustissima var. hirta.txt';
             if (file_exists($url)) {
                 $arr = $this->parse($url);
@@ -100,7 +174,7 @@ private function is_empty_array($arr){
         while ($i < $count) {
             if ($arr[$i] === ' ') {
                 $filed = $prefix . str_replace(' ', '_', trim($arr[$i + 1]));
-                $this->addField($filed);
+                $this->addField($filed, 'text');
                 $index = $i + 2;
                 while (true) {
                     if ($index == $count)
@@ -123,10 +197,10 @@ private function is_empty_array($arr){
     }
 
 
-    private function addField($name)
+    private function addField($name, $type)
     {
         $info['name'] = $name;
-        $info['type'] = 'text';
+        $info['type'] = $type;
         $table = 'pdf';
         if (!in_array($info['name'], $this->fields)) {
             $sql = "alter table `$table` add column ";
@@ -150,6 +224,11 @@ private function is_empty_array($arr){
                 $newInfo['default'] = '';
                 $newInfo['comment'] = empty($info['comment']) ? '' : 'COMMENT ' . $info['comment'];
                 break;
+            case 'varchar(255)':
+                $newInfo['length'] = '';
+                $newInfo['isNull'] = $info['isNull'] == 1 ? 'NULL' : 'NOT NULL';
+                $newInfo['default'] = '';
+                $newInfo['comment'] = empty($info['comment']) ? '' : 'COMMENT ' . $info['comment'];
         }
         $sql = $newInfo['name'] . " " . $newInfo['type'];
         $sql .= (!empty($newInfo['length'])) ? ($newInfo['length']) . ' ' : ' ';
@@ -191,7 +270,7 @@ private function is_empty_array($arr){
         }
 
         $arr = array_slice($arr, $offset);
-        $arr[0]=' ';
+        $arr[0] = ' ';
 
         foreach ($arr as $k => $item) {
             if (!(strpos($item, 'jsp') === false)) {
