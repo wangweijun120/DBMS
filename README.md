@@ -1,9 +1,10 @@
 # DBMS
-<<<<<<< HEAD
-##DBMS HOMEWORK
-=======
+
 ## DBMS HOMEWORK
->>>>>>> d76c1da3e53ed55e6a4a6f38906b136a4d34bfb2
+### step 1.
+#### get the basic information from web
 ![image](https://github.com/wangweijun120/DBMS/blob/master/Public/image/data0.png)
+### step 2.
+#### parse the pdf ,catch some useful informaiton and push to DB
 ![image](https://github.com/wangweijun120/DBMS/blob/master/Public/image/data3.png)
 
