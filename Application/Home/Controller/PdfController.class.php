@@ -32,7 +32,7 @@ class PdfController extends Controller
         foreach ($symbol as $value) {
             $plant_arr = array();
             $url = "https://plants.usda.gov/core/profile?symbol=" . $value['Symbol'];
-            //. $value['Symbol'];
+            //$url = "https://plants.usda.gov/core/profile?symbol=ACNE2";
             $arr = array(
                 "url" => $url,
                 //"url" => 'http://localhost/in.html',
@@ -52,16 +52,16 @@ class PdfController extends Controller
                 preg_match_all('/<td.*?>.*?<\/td>/ism', $tr, $tds);
                 $tds = $tds[0];
                 $tds[0] = strip_tags($tds[0]);
-                $tds[0]=substr($tds[0],0,11);
+                if(strpos($tds[0], 'Growth') !== false)$tds[0]='Growth_Habit';
+                if(strpos($tds[0], 'Native') !== false)$tds[0]='Native_Status';
                 $tds[0] = str_replace(':', '', $tds[0]);
-                $tds[0] = str_replace('\t', '', $tds[0]);
                 $tds[0] = str_replace(' ', '_', $tds[0]);
                 $tds[1] = trim(preg_replace("/\<.*?\>|\<.*?\>/", '', $tds[1]));
                 $this->addField($tds[0], 'varchar(255)');
                 $plant_arr[$tds[0]] = $tds[1];
             }
             $where['Symbol'] = $value['Symbol'];
-            $this->db->where($where)->data($plant_arr)->save();
+            $a=$this->db->where($where)->data($plant_arr)->save();
         }
     }
 

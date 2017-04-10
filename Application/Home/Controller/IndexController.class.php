@@ -9,18 +9,25 @@ class IndexController extends Controller
     protected $db;
     protected $pg_fields;
     protected $fs_fields;
+    protected $info_fields=array();
 
     function _initialize()
     {
         $this->db = D('pdf');
         $fields = $this->db->getDbFields();
-        foreach ($fields as $k =>$v)
-       if(strpos($v, 'pg_') !== false){
-           $this->pg_fields[$k]=$v;
-       }else if(strpos($v, 'fs_') !== false){
-           $this->fs_fields[$k]=$v;
-       }
-
+        foreach ($fields as $k => $v)
+            if (strpos($v, 'pg_') !== false) {
+                $this->pg_fields[$k] = $v;
+            } else if (strpos($v, 'fs_') !== false) {
+                $this->fs_fields[$k] = $v;
+            }
+        $temp=array_merge($this->fs_fields,$this->pg_fields);
+        array_push($temp,'pg','fs');
+        foreach ($fields as $k=>$v){
+            if(!in_array($v,$temp)){
+                $this->info_fields[$k]=$v;
+            }
+        }
     }
 
     public function index()
@@ -39,28 +46,46 @@ class IndexController extends Controller
         $this->display();
     }
 
+    public function showInfo(){
+        $name = I('science');
+        $name = str_replace('+', ' ', $name);
+        $where['Scientific_Name'] = $name;
+        $data = $this->db->field($this->info_fields)->where($where)->select();
+        $data = $data[0];
+        $data = array_filter($data);
+        $flip = array_flip($data);
+        foreach ($flip as $k => $value) {
+            $value = str_replace('_', ' ', $value);
+            $flip[$k] = $value;
+        }
+        $data = array_flip($flip);
+        $this->assign('title', $name);
+        $this->assign('list', $data);
+        $this->display('Index/fact');
+    }
+
     public function fact()
     {
         $name = I('science');
         $name = str_replace('+', ' ', $name);
         $id = I('id');
-        $where['Scientific_Name']=$name;
+        $where['Scientific_Name'] = $name;
         if ($id === 'fs') {
             $data = $this->db->field($this->fs_fields)->where($where)->select();
         } else {
             $data = $this->db->field($this->pg_fields)->where($where)->select();
         }
-        $data=$data[0];
-        $data=array_filter($data);
-        $flip=array_flip($data);
-        foreach ($flip as $k=>$value) {
-            $value=substr($value,3);
-            $value=str_replace('_',' ',$value);
-           $flip[$k]=$value;
+        $data = $data[0];
+        $data = array_filter($data);
+        $flip = array_flip($data);
+        foreach ($flip as $k => $value) {
+            $value = substr($value, 3);
+            $value = str_replace('_', ' ', $value);
+            $flip[$k] = $value;
         }
-        $data=array_flip($flip);
-        $this->assign('title',$name);
-        $this->assign('list',$data);
+        $data = array_flip($flip);
+        $this->assign('title', $name);
+        $this->assign('list', $data);
         $this->display();
     }
 
