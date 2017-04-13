@@ -1,0 +1,7 @@
+runtime/
+sql/
+data/backup/
+update/
+.tags
+.idea/
+sh.exe.stackdump

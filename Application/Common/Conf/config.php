@@ -1,8 +1,5 @@
 <?php
 return array(
-	'URL_MODEL'=>2,
-	'URL_ROUTER_ON'=>true,
-    //'配置项'=>'配置值'
     'DB_TYPE'=>'mysql',
     'DB_HOST'=>'localhost',
     'DB_NAME'=>'t',     // 数据库名为myapp

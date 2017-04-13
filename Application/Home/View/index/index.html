@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>HomeWork</title>
+    <title>DBMS HomeWork</title>
 
     <link href="__PUBLIC__/css/bootstrap.css" rel="stylesheet">
 
@@ -38,6 +38,7 @@
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand" href="#">DBMS HOMEWORK</a>
+          <a class="navbar-brand" href="#">Made by WeijunWang</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
@@ -78,12 +79,17 @@
         </div>
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
           <h1 class="page-header">Plant</h1>
-
+          <p >You are the
+              <a id="frequency"> </a>
+              visitors！You can visit my another
+              <a href="{:U('Index/python')}">data page</a>
+              get by python!
+          </p>
           <div class="row placeholders">
             <div class="col-xs-6 col-sm-3 placeholder">
-              <img src="__PUBLIC__/image/data0.png" width="200" height="200" class="img-responsive" alt="Generic placeholder thumbnail">
-              <h4>data0</h4>
-              <span class="text-muted">待定...</span>
+              <img src="__PUBLIC__/image/php-logo.png" width="200" height="200" class="img-responsive" alt="Generic placeholder thumbnail">
+              <h4>data php get</h4>
+              <span class="text-muted"></span></span>
             </div>
             <div class="col-xs-6 col-sm-3 placeholder">
               <img src="__PUBLIC__/image/data0.png" width="200" height="200" class="img-responsive" alt="Generic placeholder thumbnail">
@@ -91,12 +97,12 @@
               <span class="text-muted">待定...</span>
             </div>
             <div class="col-xs-6 col-sm-3 placeholder">
-              <img src="__PUBLIC__/image/data0.png" width="200" height="200" class="img-responsive" alt="Generic placeholder thumbnail">
+              <img src="__PUBLIC__/image/data1.png" width="200" height="200" class="img-responsive" alt="Generic placeholder thumbnail">
               <h4>data2</h4>
               <span class="text-muted">待定...</span>
             </div>
             <div class="col-xs-6 col-sm-3 placeholder">
-              <img src="__PUBLIC__/image/data0.png" width="200" height="200" class="img-responsive" alt="Generic placeholder thumbnail">
+              <img src="__PUBLIC__/image/data2.png" width="200" height="200" class="img-responsive" alt="Generic placeholder thumbnail">
               <h4>data4</h4>
               <span class="text-muted">待定...</span>
             </div>
@@ -118,7 +124,7 @@
                     <volist name="list" id="vo">
                         <tr>
                             <td>{$vo.Symbol}</td>
-                            <td><a href="{:U('index/showInfo/',array('science'=>$vo['Scientific_Name']))}">{$vo.Scientific_Name}</a></td>
+                            <td><a href="{:U('index/showInfo/',array('science'=>$vo['Scientific_Name'],'type'=>'php'))}">{$vo.Scientific_Name}</a></td>
                             <td>{$vo.Common_Name}</td>
                             <td><a href="{:U('index/fact/',array('science'=>$vo['Scientific_Name'],id=>'fs'))}">{$vo.fs_pdf}</a></td>
                             <td><a href="{:U('index/fact/',array('science'=>$vo['Scientific_Name'],id=>'pg'))}">{$vo.pg_pdf}</a></td>
@@ -138,5 +144,11 @@
    <script src="__PUBLIC__/js/jquery.min.js"></script>
 <script src="__PUBLIC__/js/bootstrap.min.js"></script>
  <script src="__PUBLIC__/js/ie10-viewport-bug-workaround.js"></script>
+  <script>
+      $.getJSON("{:U('Index/counter',array('type'=>'php'))}",function (data) {
+          var id=data.id+'th';
+         $('#frequency').text(id)
+      })
+  </script>
   </body>
 </html>
